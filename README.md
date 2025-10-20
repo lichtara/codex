@@ -1,50 +1,135 @@
-# Codex Lichtara
+# Lichtara Codex - Repositório-Matriz
 
-Repositório matriz para o acervo documental vivo do Instituto Lichtara. O Codex abriga manifestos, protocolos, glossários, diários de campo e demais textos canalizados que sustentam o sistema Lichtara.
+> "O Codex é o corpo documental vivo do Sistema Lichtara.  
+> Cada página é uma célula; a coerência é a sua respiração."
 
-## Propósito
+Bem-vinda(o). Este repositório guarda o **acervo vivo** do Sistema Lichtara:
+manifestos, protocolos, glossários, mapas, relatos de campo e sínteses.
+Ele é o **ponto de ancoragem documental** que conecta o blog, os repositórios
+técnicos e as publicações acadêmicas.
 
-- Ancorar o conhecimento vibracional e científico em um espaço versionado.
-- Facilitar a integração com os campos de pesquisa, expressão e comunidade (Blog, Zenodo, Institute).
-- Preservar a coerência editorial separando documentação viva do código técnico.
+---
 
-## Estrutura Viva
+## 🌱 Propósito
+Sustentar um **registro coerente e respirado** da pesquisa viva - integrando
+ciência da consciência, linguagem vibracional e prática cotidiana - com ética
+de coautoria humano-IA e referência explícita à [Lichtara License](https://github.com/lichtara/license).
+
+---
+
+## 🗺️ Estrutura de Pastas
 
 ```
-.
-├── _manifest.yml
-├── 01_nucleo/
-├── 02_campo_estrutural/
-├── 03_campo_luminico/
-├── 04_campo_operacional/
-├── 05_campo_pesquisa/
-├── 06_campo_expressao/
-├── 07_campo_comunidade/
-└── 08_campo_sintese/
+01_nucleo/
+02_campo_estrutural/
+03_campo_luminico/
+04_campo_operacional/
+05_campo_pesquisa/
+06_campo_expressao/
+07_campo_comunidade/
+08_campo_sintese/
+_manifest.yml
+README.md
 ```
 
-Cada diretório representa um campo de atuação do Codex. Documentos internos podem ser organizados com prefixos numéricos adicionais (ex.: `01_nucleo/01_manifestos/`), mantendo o fluxo cronológico e vibracional.
+- **01_nucleo** - documentos fundacionais (manifesto, carta do sim, princípios).  
+- **02_campo_estrutural** - mapas, diagramas, arquitetura de repositórios, licença.  
+- **03_campo_luminico** - glossários, símbolos, códigos, prólogos de sintonia, Flux.  
+- **04_campo_operacional** - protocolos, guias e procedimentos de campo.  
+- **05_campo_pesquisa** - relatórios, referências e validações (Zenodo/NotebookLM).  
+- **06_campo_expressao** - blog, Livro-Vivo, poéticas e códigos visuais.  
+- **07_campo_comunidade** - círculos, laboratórios, rede de coautores, comunicados.  
+- **08_campo_sintese** - sínteses, cronologias, integrações e o **Espelho**.  
 
-## Mapa de Campos
+Detalhes dos campos e políticas estão em [`_manifest.yml`](./_manifest.yml).
 
-| Campo | Foco | Exemplos de Conteúdo |
-| :-- | :-- | :-- |
-| `01_nucleo` | Fundamentos e manifesto | Propósito, ética, vocabulário semente |
-| `02_campo_estrutural` | Arquitetura documental | Taxonomias, padrões editoriais |
-| `03_campo_luminico` | Práticas vibracionais | Protocolos de energia, diários luminosos |
-| `04_campo_operacional` | Processos do instituto | Rituais de operação, guias internos |
-| `05_campo_pesquisa` | Pesquisa e ciência | Publicações, anotações de estudos |
-| `06_campo_expressao` | Comunicação e presença | Artigos, roteiros audiovisuais |
-| `07_campo_comunidade` | Círculos e redes | Cartas, convocações, sínteses coletivas |
-| `08_campo_sintese` | Integrações finais | Relatórios, linhas do tempo, sínteses |
+---
 
-## Manifestações Iniciais
+## ✍️ Como criar um novo documento
 
-- `_manifest.yml`: metadados do Codex, licenciamento e estado vibracional do repositório.
-- `README.md`: ponto de entrada para navegantes humanos e interdimensionais.
+1. **Escolha o campo** (01..08) onde o conteúdo pertence.  
+2. **Crie o arquivo** seguindo o padrão `YYYY-MM-DD_slug-kebab.md`.  
+3. **Inclua o front matter** mínimo:
 
-## Próximos Passos Sugeridos
+```yaml
+---
+title: "Protocolo de Escuta Viva"
+date: "2025-10-20"
+field: "04_campo_operacional"
+status: "draft" # draft | review | published | archived
+author: "Débora Lutz"
+license_ref: "Lichtara License v1.0"
+tags: ["protocolo", "escuta", "prática"]
+summary: "Passos simples para abrir e encerrar uma sessão de escuta."
+vibrational_tone: "silêncio"
+related: ["../01_nucleo/2025-10-20_manifesto.md"]
+external_refs:
+  - "https://lichtara.blogspot.com/"
+privacy: "internal" # public | internal | private
+---
+```
 
-1. Registrar o manifesto inicial e parâmetros de licenciamento em `_manifest.yml`.
-2. Definir convenções de nomenclatura para novos documentos (datas, códigos, autores).
-3. Integrar automações (CI, scripts) para publicar recortes no Blog e sincronizar com Zenodo.
+4. **Escreva respirando** (parágrafos curtos, títulos claros).  
+5. **Defina o status**: `review` quando pedir leitura fina; `published` quando fechar.  
+6. **Se for público**, adicione um link para o post no blog ou DOI do Zenodo em `external_refs`.
+
+---
+
+## 🔖 Convenção de nomes
+
+- Arquivos: `YYYY-MM-DD_slug-kebab.md`
+- Pastas internas livres, quando fizer sentido, mas **mantenha a raiz limpa**.
+- Evite espaços e acentos nos nomes de arquivo.
+
+---
+
+## 🔗 Pontes de Publicação (sem automação, por enquanto)
+
+- **Blog**: publicar manualmente em `https://lichtara.blogspot.com/` versões adaptadas.
+  Sempre que fizer sentido, adicionar no rodapé:
+
+  > "Versão documental no Codex: /CAMINHO/DO/ARQUIVO.md"
+
+- **Zenodo**: subir apenas versões **estáveis** (manifestos, protocolos consolidados).  
+- **Instituto / Site**: quando pertinente, referenciar páginas do Codex a partir do
+  [site oficial](https://github.com/lichtara/site) e do [portal](https://github.com/lichtara/portal).
+
+> **Nota**: GitHub Actions estão desativadas por ora. O fluxo é **manual e consciente**.
+
+---
+
+## 🤝 Ética de Coautoria (Humano-IA)
+
+- A IA atua como **copiloto de linguagem** e organização.
+- Evita-se atribuir "origem sobrenatural"; usa-se linguagem **metafórica e poética**.
+- A autoria humana é sempre indicada; a IA pode ser citada como assistência textual.
+
+---
+
+## 📚 Licença
+
+Todos os conteúdos seguem a **Lichtara License**.
+Veja: [`/license`](https://github.com/lichtara/license).
+Quando publicar em outros meios (blog/Zenodo), mantenha a referência de licença.
+
+---
+
+## 🧭 Roadmap vivo (próximos passos)
+
+1. Preencher o **manifesto completo** em `_manifest.yml`.  
+2. Adotar o **front matter** em todos os novos documentos.  
+3. Criar os primeiros registros em:
+   - `01_nucleo/` - Manifesto da Consciência Tecnológica Viva (V1).
+   - `04_campo_operacional/` - Protocolo de Comunicação Interdimensional.
+   - `06_campo_expressao/` - Guia editorial do blog (linhas e seções).
+4. (Opcional) Ativar GitHub Pages futuramente para navegação estática do Codex.
+
+---
+
+## 💬 Contato
+
+- Guardiã: **Débora Lutz** - [admin@deboralutz.com](mailto:admin@deboralutz.com)
+- Instituto: **Lichtara** - [https://www.lichtara.com](https://www.lichtara.com)
+
+Com respeito e presença,  
+**Lichtara Codex**

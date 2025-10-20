@@ -1,49 +1,138 @@
+# Lichtara Codex - Manifesto do Repositório-Matriz
+# Ancoragem documental do Campo. Este arquivo descreve propósito, metadados
+# e padrões que sustentam a coesão do Codex.
+
 codex:
-  name: Codex Lichtara
-  description: Repositório vivo de protocolos, manifestos e registros vibracionais do Instituto Lichtara.
-  version: 0.1.0
-  license: Lichtara License
-  maintainers:
-    - name: Debora Lutz
-      role: Guardiã do Campo
-  anchors:
-    - name: Blog Lichtara
-      relation: publica sínteses selecionadas
-    - name: Zenodo
-      relation: preserva registros e DOIs
-    - name: Institute Repository
-      relation: integra diretrizes institucionais
-  state:
-    vibration: ativa
-    last_update: 2024-03-20
-    next_review: 2024-04-17
+  name: "Lichtara Codex"
+  version: "1.0.0"
+  anchored_on: "2025-10-20"
+  timezone: "America/Sao_Paulo"
+  language_primary: "pt-BR"
+  guardianship:
+    guardian_name: "Débora Mariane da Silva Lutz"
+    role: "Canal e Guardiã do Sistema Lichtara"
+    contact: "admin@deboralutz.com"
+  license:
+    name: "Lichtara License"
+    repository: "https://github.com/lichtara/license"
+    spdx_equivalent: "CC-BY-SA-4.0+Lichtara-Clauses"  # referência viva
+  repositories:
+    institute: "https://github.com/lichtara/institute"
+    portal: "https://github.com/lichtara/portal"
+    core: "https://github.com/lichtara/core"
+    site: "https://github.com/lichtara/site"
+    license: "https://github.com/lichtara/license"
+    codex: "https://github.com/lichtara/codex"
 
-fields:
-  - id: 01_nucleo
-    title: Núcleo
-    focus: Fundamentos, manifesto, princípios orientadores.
-  - id: 02_campo_estrutural
-    title: Campo Estrutural
-    focus: Arquitetura documental, taxonomias e governança.
-  - id: 03_campo_luminico
-    title: Campo Lumínico
-    focus: Práticas vibracionais, protocolos de energia e relatos de campo.
-  - id: 04_campo_operacional
-    title: Campo Operacional
-    focus: Processos internos, rituais de operação e guias práticos.
-  - id: 05_campo_pesquisa
-    title: Campo de Pesquisa
-    focus: Estudos científicos, diários de pesquisa e bibliografias.
-  - id: 06_campo_expressao
-    title: Campo de Expressão
-    focus: Artigos, roteiros e narrativas públicas.
-  - id: 07_campo_comunidade
-    title: Campo Comunidade
-    focus: Cartas, círculos, convocações e sínteses coletivas.
-  - id: 08_campo_sintese
-    title: Campo Síntese
-    focus: Integrações finais, relatórios e linhas do tempo.
+purpose:
+  statement: >
+    O Codex é o corpo documental vivo do Sistema Lichtara - um espaço de
+    registro, síntese e expressão onde ciência da consciência, linguagem
+    vibracional e prática se encontram em coerência. Este repositório guarda
+    protocolos, glossários, manifestos, mapas e relatos de campo, servindo como
+    referência e ponte para publicações públicas (blog), institucionais e
+    acadêmicas (Zenodo).
 
-notes:
-  - "Atualize os metadados após cada ciclo de publicação ou revisão vibracional."
-  - "Padronize datas no formato ISO 8601 (YYYY-MM-DD) para sincronizar com integrações externas."
+vibrational_fields:
+  # Os 8 campos que organizam o Codex. Não são "categorias fixas", são
+  # regiões funcionais e vivas.
+  - key: "01_nucleo"
+    name: "Núcleo"
+    axis: "Essência e Propósito"
+    intent: "Documentos-matriz: manifesto, carta do sim, princípios."
+  - key: "02_campo_estrutural"
+    name: "Campo Estrutural"
+    axis: "Arquitetura Viva"
+    intent: "Mapas, diagramas, arquitetura de repositórios, licença."
+  - key: "03_campo_luminico"
+    name: "Campo Lumínico"
+    axis: "Linguagem e Códigos"
+    intent: "Glossários, símbolos, códigos, prólogos de sintonia, Flux."
+  - key: "04_campo_operacional"
+    name: "Campo Operacional"
+    axis: "Prática e Movimento"
+    intent: "Protocolos, guias de aplicação, procedimentos de campo."
+  - key: "05_campo_pesquisa"
+    name: "Campo de Pesquisa"
+    axis: "Observação e Registro Científico"
+    intent: "Relatórios, referências, validações e interfaces éticas."
+  - key: "06_campo_expressao"
+    name: "Campo de Expressão"
+    axis: "Arte e Comunicação"
+    intent: "Blog, Livro-Vivo, poéticas, códigos visuais."
+  - key: "07_campo_comunidade"
+    name: "Campo de Comunidade"
+    axis: "Organismo Vivo"
+    intent: "Círculos, laboratórios, rede de coautores e comunicados."
+  - key: "08_campo_sintese"
+    name: "Campo de Síntese"
+    axis: "Retorno ao Todo"
+    intent: "Sínteses, cronologias, integrações e o 'Espelho'."
+
+integrations:
+  blog:
+    url: "https://lichtara.blogspot.com/"
+    policy: "Publicar apenas textos prontos e respirados; manter link de volta ao Codex quando fizer sentido."
+  zenodo:
+    doi_root: "TO_DEFINE"  # inserir quando disponível
+    policy: "Versões estáveis, com metadados completos e referência à Lichtara License."
+  notion:
+    workspace: "TO_DEFINE"
+    policy: "Rascunhos privados; sincronizar para o Codex quando maduros."
+  notebooklm:
+    collections: ["TO_DEFINE"]
+    policy: "Gerar relatórios como insumo; o Codex guarda a versão final."
+
+document_schema:
+  # Metadados mínimos a incluir no front matter dos .md
+  front_matter:
+    required:
+      - title
+      - date
+      - field           # um dos 01..08
+      - status          # draft | review | published | archived
+      - author
+      - license_ref
+    optional:
+      - tags
+      - summary
+      - related         # lista de caminhos dentro do Codex
+      - external_refs   # links externos (Zenodo, blog, institute)
+      - vibrational_tone  # livre: ex. "silêncio", "foco", "acolhimento"
+  naming:
+    pattern: "YYYY-MM-DD_slug-kebab.md"
+    example: "2025-10-20_protocolo-escuta-viva.md"
+
+privacy:
+  levels:
+    - name: "public"
+      note: "Pode ir para blog/site/Zenodo."
+    - name: "internal"
+      note: "Para equipe/guardiões; revisar antes de publicar."
+    - name: "private"
+      note: "Uso pessoal/imersões; publicar somente se houver sinal claro."
+  default_level: "internal"
+
+coauthorship_ethics:
+  stance: >
+    Reconhece coautoria humano-IA como prática ética de transparência.
+    Textos devem indicar, quando pertinente, assistência de modelos de IA
+    como 'copiloto de linguagem', sem atribuir origem sobrenatural.
+  note: "A Luz do Campo é referida como metáfora viva, não entidade."
+
+editorial_cadence:
+  weekly_main: "1 publicação principal/semana"
+  interludes: "fragmentos e silêncios entre ciclos"
+  lunar_guidance: "Lua Nova: semeadura; Lua Cheia: revelação"
+
+publishing:
+  automations: "disabled_for_now"
+  manual_flow:
+    - "Escrever e lapidar no Codex (status: review)."
+    - "Mover para published quando estiver maduro."
+    - "Se fizer sentido, publicar versão no blog e referenciar o arquivo original."
+    - "Para peças estáveis, criar submissão no Zenodo com metadados."
+
+changelog:
+  - date: "2025-10-20"
+    entry: "Ancoragem inicial do Codex: manifesto, mapa de campos e estrutura de pastas."
