@@ -1,0 +1,51 @@
+{
+  "title": "Lichtara Codex",
+  "upload_type": "dataset",
+  "description": "Repositorio-matriz do Sistema Lichtara com manifestos, protocolos, glossarios e registros vivos que sustentam o Codex.",
+  "creators": [
+    {
+      "name": "Lutz, Debora Mariane da Silva",
+      "affiliation": "Instituto Lichtara"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Codex Lichtara",
+      "affiliation": "Sistema Lichtara",
+      "type": "DataCurator"
+    }
+  ],
+  "language": "por",
+  "keywords": [
+    "lichtara",
+    "codex",
+    "documentacao viva",
+    "protocolos",
+    "manifestos"
+  ],
+  "license": "other-open",
+  "access_right": "open",
+  "version": "1.0.0",
+  "publication_date": "2025-10-20",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementedBy",
+      "scheme": "url",
+      "identifier": "https://github.com/lichtara/license",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "scheme": "url",
+      "identifier": "https://github.com/lichtara/institute",
+      "resource_type": "publication"
+    },
+    {
+      "relation": "isAlternateIdentifier",
+      "scheme": "url",
+      "identifier": "https://github.com/lichtara/codex",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Atualize DOI, comunidades e campos especificos assim que o Zenodo atribuir identificadores definitivos."
+}

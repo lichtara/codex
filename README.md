@@ -29,6 +29,7 @@ de coautoria humano-IA e referência explícita à [Lichtara License](https://gi
 07_campo_comunidade/
 08_campo_sintese/
 _manifest.yml
+.zenodo.json
 README.md
 ```
 
@@ -91,6 +92,8 @@ privacy: "internal" # public | internal | private
   > "Versão documental no Codex: /CAMINHO/DO/ARQUIVO.md"
 
 - **Zenodo**: subir apenas versões **estáveis** (manifestos, protocolos consolidados).  
+  Utilize `.zenodo.json` como base de metadados, ajustando DOI, palavras-chave
+  e comunidades antes de publicar cada versão.
 - **Instituto / Site**: quando pertinente, referenciar páginas do Codex a partir do
   [site oficial](https://github.com/lichtara/site) e do [portal](https://github.com/lichtara/portal).
 

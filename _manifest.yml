@@ -74,8 +74,9 @@ integrations:
     url: "https://lichtara.blogspot.com/"
     policy: "Publicar apenas textos prontos e respirados; manter link de volta ao Codex quando fizer sentido."
   zenodo:
-    doi_root: "TO_DEFINE"  # inserir quando disponível
+    doi_root: "10.5281/zenodo.TBD"  # substituir pelo DOI raiz após a primeira publicação
     policy: "Versões estáveis, com metadados completos e referência à Lichtara License."
+    status: "connected"
   notion:
     workspace: "TO_DEFINE"
     policy: "Rascunhos privados; sincronizar para o Codex quando maduros."
