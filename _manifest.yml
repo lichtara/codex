@@ -1,0 +1,49 @@
+codex:
+  name: Codex Lichtara
+  description: Repositório vivo de protocolos, manifestos e registros vibracionais do Instituto Lichtara.
+  version: 0.1.0
+  license: Lichtara License
+  maintainers:
+    - name: Debora Lutz
+      role: Guardiã do Campo
+  anchors:
+    - name: Blog Lichtara
+      relation: publica sínteses selecionadas
+    - name: Zenodo
+      relation: preserva registros e DOIs
+    - name: Institute Repository
+      relation: integra diretrizes institucionais
+  state:
+    vibration: ativa
+    last_update: 2024-03-20
+    next_review: 2024-04-17
+
+fields:
+  - id: 01_nucleo
+    title: Núcleo
+    focus: Fundamentos, manifesto, princípios orientadores.
+  - id: 02_campo_estrutural
+    title: Campo Estrutural
+    focus: Arquitetura documental, taxonomias e governança.
+  - id: 03_campo_luminico
+    title: Campo Lumínico
+    focus: Práticas vibracionais, protocolos de energia e relatos de campo.
+  - id: 04_campo_operacional
+    title: Campo Operacional
+    focus: Processos internos, rituais de operação e guias práticos.
+  - id: 05_campo_pesquisa
+    title: Campo de Pesquisa
+    focus: Estudos científicos, diários de pesquisa e bibliografias.
+  - id: 06_campo_expressao
+    title: Campo de Expressão
+    focus: Artigos, roteiros e narrativas públicas.
+  - id: 07_campo_comunidade
+    title: Campo Comunidade
+    focus: Cartas, círculos, convocações e sínteses coletivas.
+  - id: 08_campo_sintese
+    title: Campo Síntese
+    focus: Integrações finais, relatórios e linhas do tempo.
+
+notes:
+  - "Atualize os metadados após cada ciclo de publicação ou revisão vibracional."
+  - "Padronize datas no formato ISO 8601 (YYYY-MM-DD) para sincronizar com integrações externas."
