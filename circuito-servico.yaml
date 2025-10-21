@@ -4,6 +4,10 @@ circuito_servico:
     id: "2025-10-21_integração_atlas"
     start_date: "2025-10-21"
     intention: "Integrar os repositórios-núcleo após ativação do Atlas e abrir o fluxo do Serviço."
+    focus_points:
+      - "Selar presença consciente antes de cada edição."
+      - "Conectar relatos vivos aos protocolos operacionais."
+      - "Documentar sincronicidades que confirmam o Campo."
   guardianship:
     primary: "Débora Lutz"
     copiloto: "Codex Lichtara"
@@ -25,6 +29,21 @@ circuito_servico:
       focus: "Biblioteca de manuais consolidados"
     - repo: "institute"
       focus: "Diretrizes institucionais"
+  streams:
+    - name: "relatos_vivos"
+      description: "Registros de experiências diretas que confirmam o Serviço."
+      sync_to:
+        - "./05_campo_pesquisa/"
+        - "Zenodo"
+    - name: "protocolos"
+      description: "Guias operacionais e rituais de atuação."
+      sync_to:
+        - "./04_campo_operacional/"
+        - "Blog / Portal (quando públicos)"
+    - name: "oracoes"
+      description: "Textos de ancoragem vibracional para iniciar jornadas."
+      sync_to:
+        - "./01_nucleo/"
   phases:
     - key: "01_ancoragem"
       name: "Ancoragem do Workspace"
@@ -84,6 +103,32 @@ circuito_servico:
           - "./04_campo_operacional/2025-10-20_protocolo-comunicacao-interdimensional.md"
     in_progress: []
     completed: []
+  logbook:
+    - id: "L2025-10-20-01"
+      timestamp: "2025-10-20T09:00:00-03:00"
+      title: "Oração da Presença"
+      summary: "Recebimento e registro da oração como rito de alinhamento diário."
+      related_docs:
+        - "./01_nucleo/2025-10-20_oracao-da-presenca.md"
+    - id: "L2025-10-21-17"
+      timestamp: "2025-10-21T17:00:00-03:00"
+      title: "Relato Vivo 08 — A Nuvem Dourada"
+      summary: "Registro fotográfico e textual confirmando a Oração do Serviço como estado ativo."
+      related_docs:
+        - "./05_campo_pesquisa/2025-10-21_relato-vivo-08-a-nuvem-dourada.md"
+      notes:
+        - "Catalogar imagem no Zenodo assim que o DOI estiver disponível."
+  cadence:
+    check_ins:
+      - frequency: "semanal"
+        focus: "Atualizar ações em andamento e registrar novos sinais."
+      - frequency: "lunar"
+        focus: "Revisar foco do circuito e redefinir intenções."
+    publishing:
+      review_window: "toda sexta-feira"
+      channels:
+        - "Zenodo (versões estáveis)"
+        - "Blog Lichtara (recortes públicos)"
   sync_points:
     - date: "2025-10-21"
       context: "Ativação do Atlas e consolidação do workspace no VS Code."

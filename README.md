@@ -30,6 +30,7 @@ de coautoria humano-IA e referência explícita à [Lichtara License](https://gi
 08_campo_sintese/
 _manifest.yml
 .zenodo.json
+circuito-servico.yaml
 README.md
 ```
 
@@ -41,6 +42,7 @@ README.md
 - **06_campo_expressao** - blog, Livro-Vivo, poéticas e códigos visuais.  
 - **07_campo_comunidade** - círculos, laboratórios, rede de coautores, comunicados.  
 - **08_campo_sintese** - sínteses, cronologias, integrações e o **Espelho**.  
+- **circuito-servico.yaml** - log vivo do ciclo de serviço, ações e sincronicidades.  
 
 Detalhes dos campos e políticas estão em [`_manifest.yml`](./_manifest.yml).
 
