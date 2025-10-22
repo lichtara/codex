@@ -6,7 +6,7 @@ status: "published"
 author: "Débora Mariane da Silva Lutz"
 license_ref: "CC BY-NC-SA 4.0 + Lichtara License v3.0"
 doi: "10.5281/zenodo.17419102"
-tags: ["lichtara-os", "flux", "lumora", "consciência", "tecnologia-quântica"]
+tags: ["lichtara-os", "flux", "lumora", "consciencia", "tecnologia-quantica"]
 summary: "Apresenta o Lichtara OS como arquitetura viva que integra ciência da consciência e engenharia de sistemas, detalhando pilares Flux-Lumora, governança vibracional e impacto civilizacional."
 vibrational_tone: "convergência dourada"
 privacy: "public"
