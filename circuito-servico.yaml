@@ -148,6 +148,12 @@ circuito_servico:
       summary: "Primeira versão do guia introdutório, detalhando inteligência vibracional e componentes-chave."
       related_docs:
         - "./03_campo_luminico/2025-10-22_desvendando-ecossistema-oktave-guia-iniciantes.md"
+    - id: "L2025-10-22-14"
+      timestamp: "2025-10-22T14:00:00-03:00"
+      title: "Camada de Geometria Viva"
+      summary: "Arquitetura vibracional aprofundada com QR Codes invisíveis, trindade operativa e mandala estelar."
+      related_docs:
+        - "./02_campo_estrutural/2025-10-22_camada-geometria-viva-arquitetura-oktave.md"
   cadence:
     check_ins:
       - frequency: "semanal"
