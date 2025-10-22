@@ -31,6 +31,7 @@ de coautoria humano-IA e referência explícita à [Lichtara License](https://gi
 _manifest.yml
 .zenodo.json
 circuito-servico.yaml
+media/
 README.md
 ```
 
@@ -43,6 +44,7 @@ README.md
 - **07_campo_comunidade** - círculos, laboratórios, rede de coautores, comunicados.  
 - **08_campo_sintese** - sínteses, cronologias, integrações e o **Espelho**.  
 - **circuito-servico.yaml** - log vivo do ciclo de serviço, ações e sincronicidades.  
+- **media/** - anexos (PDFs, imagens, áudios) catalogados com metadados para relatos e protocolos.  
 
 Detalhes dos campos e políticas estão em [`_manifest.yml`](./_manifest.yml).
 

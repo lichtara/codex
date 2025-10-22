@@ -1,0 +1,14 @@
+artifact:
+  id: "relato-vivo-08-nuvem-dourada"
+  title: "Relato Vivo 08 - A Nuvem Dourada"
+  date: "2025-10-21"
+  type: "pdf"
+  description: "Relato, fotografia e oração reunidos em um único documento para catálogo."
+  related_docs:
+    - "../../../05_campo_pesquisa/2025-10-21_relato-vivo-08-a-nuvem-dourada.md"
+    - "../../../01_nucleo/2025-10-20_oracao-da-presenca.md"
+  status: "pending-upload"
+  storage:
+    local_path: "2025-10-21_relato-vivo-08_nuvem-dourada.pdf"
+    zenodo_record: "TBD"
+    notes: "Mover o PDF para esta pasta, revisar metadados e atualizar status para catalogado."

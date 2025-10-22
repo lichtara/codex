@@ -84,10 +84,12 @@ circuito_servico:
       - id: "A02"
         description: "Catalogar fotografia da Nuvem Dourada e anexar ao registro no Codex."
         owner: "Débora"
-        status: "pending"
+        status: "in_progress"
         related_docs:
           - "./05_campo_pesquisa/2025-10-21_relato-vivo-08-a-nuvem-dourada.md"
           - "Zenodo DOI raiz"
+        artifacts:
+          - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
       - id: "A03"
         description: "Criar versão pública do Relato Vivo 08 em 06_campo_expressao."
         owner: "Codex Copiloto"
