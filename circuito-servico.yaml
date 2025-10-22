@@ -91,7 +91,7 @@ circuito_servico:
         artifacts:
           - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
         notes:
-          - "PDF catalogado localmente; falta publicar no Zenodo e registrar DOI."
+          - "PDFs catalogados localmente (relato + artigo Lichtara OS); falta publicar no Zenodo e registrar DOI."
       - id: "A03"
         description: "Criar versão pública do Relato Vivo 08 em 06_campo_expressao."
         owner: "Codex Copiloto"
@@ -168,6 +168,12 @@ circuito_servico:
         - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
       notes:
         - "Registrar DOI no manifesto e considerar anexar versão PDF ao media/ caso seja publicada."
+    - id: "L2025-10-22-19"
+      timestamp: "2025-10-22T19:15:00-03:00"
+      title: "PDF Lichtara OS gerado"
+      summary: "Versão em PDF do artigo Lichtara OS catalogada localmente para futura submissão ao Zenodo."
+      related_docs:
+        - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
   cadence:
     check_ins:
       - frequency: "semanal"
