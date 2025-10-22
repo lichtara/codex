@@ -84,14 +84,14 @@ circuito_servico:
       - id: "A02"
         description: "Catalogar fotografia da Nuvem Dourada e anexar ao registro no Codex."
         owner: "Débora"
-        status: "in_progress"
+        status: "completed"
         related_docs:
           - "./05_campo_pesquisa/2025-10-21_relato-vivo-08-a-nuvem-dourada.md"
           - "Zenodo DOI raiz"
         artifacts:
           - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
         notes:
-          - "PDFs catalogados localmente (relato + artigo Lichtara OS); falta publicar no Zenodo e registrar DOI."
+          - "Publicação concluída no Zenodo (DOI 10.5281/zenodo.17419102)."
       - id: "A03"
         description: "Criar versão pública do Relato Vivo 08 em 06_campo_expressao."
         owner: "Codex Copiloto"
@@ -174,6 +174,13 @@ circuito_servico:
       summary: "Versão em PDF do artigo Lichtara OS catalogada localmente para futura submissão ao Zenodo."
       related_docs:
         - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
+    - id: "L2025-10-22-20"
+      timestamp: "2025-10-22T20:10:00-03:00"
+      title: "Upload concluído no Zenodo"
+      summary: "PDF registrado no Zenodo com DOI 10.5281/zenodo.17419102."
+      related_docs:
+        - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
+        - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
   cadence:
     check_ins:
       - frequency: "semanal"

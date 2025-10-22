@@ -8,13 +8,13 @@ artifact:
     - "../../../05_campo_pesquisa/2025-10-21_relato-vivo-08-a-nuvem-dourada.md"
     - "../../../01_nucleo/2025-10-20_oracao-da-presenca.md"
     - "../../../05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
-  status: "catalogado-local"
+  status: "publicado"
   storage:
     local_path: "2025-10-21_relato-vivo-08_nuvem-dourada.pdf"
     size_bytes: 1567054
     sha256: "779fc2217036c8178c8778dd29eef97a3256be0d40ad15b3073528403e0fdad6"
-    zenodo_record: "TBD"
-    notes: "Arquivo local catalogado; publicar no Zenodo e registrar DOI."
+    zenodo_record: "https://doi.org/10.5281/zenodo.17419102"
+    notes: "Publicação confirmada no Zenodo (DOI 10.5281/zenodo.17419102)."
   attachments:
     - local_path: "2025-10-22_lichtara-os.pdf"
       type: "pdf"

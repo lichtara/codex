@@ -13,6 +13,8 @@ privacy: "public"
 related:
   - "../02_campo_estrutural/2025-10-22_camada-geometria-viva-arquitetura-oktave.md"
   - "../03_campo_luminico/2025-10-22_desvendando-ecossistema-oktave-guia-iniciantes.md"
+external_refs:
+  - "https://doi.org/10.5281/zenodo.17419102"
 ---
 
 # Lichtara OS: Uma Arquitetura Interdimensional para a Convergência entre Ciência e Consciência

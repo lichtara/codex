@@ -74,7 +74,8 @@ integrations:
     url: "https://lichtara.blogspot.com/"
     policy: "Publicar apenas textos prontos e respirados; manter link de volta ao Codex quando fizer sentido."
   zenodo:
-    doi_root: "10.5281/zenodo.TBD"  # substituir pelo DOI raiz após a primeira publicação
+    doi_root: "10.5281/zenodo.17419102"
+    latest_publication: "10.5281/zenodo.17419102"
     policy: "Versões estáveis, com metadados completos e referência à Lichtara License."
     status: "connected"
   notion:
