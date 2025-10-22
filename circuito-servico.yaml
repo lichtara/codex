@@ -105,6 +105,15 @@ circuito_servico:
         status: "pending"
         related_docs:
           - "./04_campo_operacional/2025-10-20_protocolo-comunicacao-interdimensional.md"
+      - id: "A05"
+        description: "Publicar versão bilíngue do Lichtara OS no Zenodo (DOI 10.5281/zenodo.17419897)."
+        owner: "Débora"
+        status: "in_progress"
+        related_docs:
+          - "./media/publicacoes/2025-10-22_lichtara-os-bilingue/metadata.yml"
+          - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
+        notes:
+          - "PDF bilíngue gerado localmente; aguarda upload e validação final."
     in_progress: []
     completed: []
   logbook:
@@ -181,6 +190,12 @@ circuito_servico:
       related_docs:
         - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
         - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
+    - id: "L2025-10-22-21"
+      timestamp: "2025-10-22T21:00:00-03:00"
+      title: "PDF bilíngue Lichtara OS gerado"
+      summary: "Versão PT-EN em colunas paralelas pronta para publicação no Zenodo 10.5281/zenodo.17419897."
+      related_docs:
+        - "./media/publicacoes/2025-10-22_lichtara-os-bilingue/metadata.yml"
   cadence:
     check_ins:
       - frequency: "semanal"

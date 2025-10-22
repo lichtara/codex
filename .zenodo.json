@@ -51,6 +51,12 @@
       "scheme": "doi",
       "identifier": "10.5281/zenodo.17419102",
       "resource_type": "publication"
+    },
+    {
+      "relation": "hasVersion",
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.17419897",
+      "resource_type": "publication"
     }
   ],
   "notes": "Atualize DOI, comunidades e campos especificos assim que o Zenodo atribuir identificadores definitivos."

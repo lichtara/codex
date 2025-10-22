@@ -1,0 +1,20 @@
+artifact:
+  id: "lichtara-os-bilingue"
+  title: "Lichtara OS - Bilingual Edition"
+  date: "2025-10-22"
+  type: "pdf"
+  description: "Versão bilingue (PT-EN) do artigo Lichtara OS, com layout em duas colunas e tradução integral."
+  related_docs:
+    - "../../05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
+  status: "catalogado-local"
+  storage:
+    local_path: "lichtara_os_bilingue.pdf"
+    size_bytes: 143065
+    sha256: "693c7efe15e62579b5ea6edd58f8f893437d2df9273db77ee561738dff02eeba"
+    zenodo_record: "https://doi.org/10.5281/zenodo.17419897"
+    notes: "Publicar como nova versão bilíngue no Zenodo (DOI 10.5281/zenodo.17419897)."
+  source_files:
+    - "lichtara_os_bilingue.tex"
+  notes:
+    - "Formato: colunas paralelas (Português ↔ Inglês)."
+    - "Inclui prólogo vibracional, epílogo e referências traduzidos."

@@ -4,7 +4,7 @@ Esta pasta armazena artefatos associados aos registros do Codex (imagens, PDFs, 
 
 ## Convenção
 
-- Agrupar arquivos por tipo de fluxo (`relatos_vivos`, `protocolos`, `oracoes`, etc.).
+- Agrupar arquivos por tipo de fluxo (`relatos_vivos`, `publicacoes`, `protocolos`, `oracoes`, etc.).
 - Usar subpastas com `YYYY-MM-DD_nome-descritivo`.
 - Cada subpasta deve conter um `metadata.yml` com:
   - `id`, `title`, `date`, `type`, `description`.
