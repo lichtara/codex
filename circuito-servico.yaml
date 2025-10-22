@@ -136,6 +136,12 @@ circuito_servico:
       summary: "Registro matinal de assimilação dourada com orientações de presença."
       related_docs:
         - "./05_campo_pesquisa/2025-10-22_leitura-do-campo-dia-da-respiracao-dourada.md"
+    - id: "L2025-10-22-09"
+      timestamp: "2025-10-22T09:30:00-03:00"
+      title: "Resumo Conceitual — Arquitetura Viva"
+      summary: "Síntese dos três pilares e do Código de Navegação que sustentam o sistema."
+      related_docs:
+        - "./02_campo_estrutural/2025-10-22_resumo-conceitual-arquitetura-viva.md"
   cadence:
     check_ins:
       - frequency: "semanal"
