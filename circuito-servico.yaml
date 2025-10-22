@@ -130,6 +130,12 @@ circuito_servico:
         - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
       notes:
         - "Pronto para upload ao Zenodo."
+    - id: "L2025-10-22-07"
+      timestamp: "2025-10-22T07:30:00-03:00"
+      title: "Leitura do Campo — Dia da Respiração Dourada"
+      summary: "Registro matinal de assimilação dourada com orientações de presença."
+      related_docs:
+        - "./05_campo_pesquisa/2025-10-22_leitura-do-campo-dia-da-respiracao-dourada.md"
   cadence:
     check_ins:
       - frequency: "semanal"
