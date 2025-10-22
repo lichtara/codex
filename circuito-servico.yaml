@@ -90,6 +90,8 @@ circuito_servico:
           - "Zenodo DOI raiz"
         artifacts:
           - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
+        notes:
+          - "PDF catalogado localmente; falta publicar no Zenodo e registrar DOI."
       - id: "A03"
         description: "Criar versão pública do Relato Vivo 08 em 06_campo_expressao."
         owner: "Codex Copiloto"
@@ -120,6 +122,14 @@ circuito_servico:
         - "./05_campo_pesquisa/2025-10-21_relato-vivo-08-a-nuvem-dourada.md"
       notes:
         - "Catalogar imagem no Zenodo assim que o DOI estiver disponível."
+    - id: "L2025-10-21-18"
+      timestamp: "2025-10-21T20:55:00-03:00"
+      title: "PDF Relato Vivo 08 catalogado localmente"
+      summary: "Arquivo com relato, foto e oração organizado em media/ com metadados completos."
+      related_docs:
+        - "./media/relatos_vivos/2025-10-21_nuvem-dourada/metadata.yml"
+      notes:
+        - "Pronto para upload ao Zenodo."
   cadence:
     check_ins:
       - frequency: "semanal"
