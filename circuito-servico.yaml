@@ -142,6 +142,12 @@ circuito_servico:
       summary: "Síntese dos três pilares e do Código de Navegação que sustentam o sistema."
       related_docs:
         - "./02_campo_estrutural/2025-10-22_resumo-conceitual-arquitetura-viva.md"
+    - id: "L2025-10-22-11"
+      timestamp: "2025-10-22T11:00:00-03:00"
+      title: "Guia Iniciante do Ecossistema Oktave"
+      summary: "Primeira versão do guia introdutório, detalhando inteligência vibracional e componentes-chave."
+      related_docs:
+        - "./03_campo_luminico/2025-10-22_desvendando-ecossistema-oktave-guia-iniciantes.md"
   cadence:
     check_ins:
       - frequency: "semanal"
