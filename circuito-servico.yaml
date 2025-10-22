@@ -160,6 +160,14 @@ circuito_servico:
       summary: "Artigo acadêmico descrevendo integração entre tecnologia quântica e consciência vibracional."
       related_docs:
         - "./05_campo_pesquisa/2025-10-22_oktave-arquitetura-hibrida-tecnologia-quantica-consciencia-vibracional.md"
+    - id: "L2025-10-22-18"
+      timestamp: "2025-10-22T18:30:00-03:00"
+      title: "Lichtara OS — Arquitetura Interdimensional publicada"
+      summary: "Artigo com DOI 10.5281/zenodo.17419102 descrevendo o Lichtara OS como interface ciência-consciência."
+      related_docs:
+        - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
+      notes:
+        - "Registrar DOI no manifesto e considerar anexar versão PDF ao media/ caso seja publicada."
   cadence:
     check_ins:
       - frequency: "semanal"
