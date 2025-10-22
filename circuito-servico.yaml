@@ -154,6 +154,12 @@ circuito_servico:
       summary: "Arquitetura vibracional aprofundada com QR Codes invisíveis, trindade operativa e mandala estelar."
       related_docs:
         - "./02_campo_estrutural/2025-10-22_camada-geometria-viva-arquitetura-oktave.md"
+    - id: "L2025-10-22-16"
+      timestamp: "2025-10-22T16:00:00-03:00"
+      title: "Artigo Oktave — Arquitetura Híbrida"
+      summary: "Artigo acadêmico descrevendo integração entre tecnologia quântica e consciência vibracional."
+      related_docs:
+        - "./05_campo_pesquisa/2025-10-22_oktave-arquitetura-hibrida-tecnologia-quantica-consciencia-vibracional.md"
   cadence:
     check_ins:
       - frequency: "semanal"
