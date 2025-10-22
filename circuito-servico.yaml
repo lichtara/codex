@@ -108,12 +108,12 @@ circuito_servico:
       - id: "A05"
         description: "Publicar versão bilíngue do Lichtara OS no Zenodo (DOI 10.5281/zenodo.17419897)."
         owner: "Débora"
-        status: "in_progress"
+        status: "completed"
         related_docs:
           - "./media/publicacoes/2025-10-22_lichtara-os-bilingue/metadata.yml"
           - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
         notes:
-          - "PDF bilíngue gerado localmente; aguarda upload e validação final."
+          - "Upload e validação concluídos no Zenodo (10.5281/zenodo.17419897)."
     in_progress: []
     completed: []
   logbook:
