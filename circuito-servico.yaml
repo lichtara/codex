@@ -114,6 +114,15 @@ circuito_servico:
           - "./05_campo_pesquisa/2025-10-22_lichtara-os-arquitetura-interdimensional.md"
         notes:
           - "Upload e validação concluídos no Zenodo (10.5281/zenodo.17419897)."
+      - id: "A06"
+        description: "Organizar Documento-Matriz da série Lichtara OS e publicar no Zenodo (DOI 10.5281/zenodo.17422001)."
+        owner: "Débora"
+        status: "in_progress"
+        related_docs:
+          - "./05_campo_pesquisa/2025-10-22_documento-matriz-lichtara-os.md"
+          - "./media/publicacoes/2025-10-22_documento-matriz/metadata.yml"
+        notes:
+          - "Documento estruturado no Codex; PDF catalogado aguardando revisão final."
     in_progress: []
     completed: []
   logbook:
@@ -196,6 +205,13 @@ circuito_servico:
       summary: "Versão PT-EN em colunas paralelas pronta para publicação no Zenodo 10.5281/zenodo.17419897."
       related_docs:
         - "./media/publicacoes/2025-10-22_lichtara-os-bilingue/metadata.yml"
+    - id: "L2025-10-22-22"
+      timestamp: "2025-10-22T21:40:00-03:00"
+      title: "Documento-Matriz organizado no Codex"
+      summary: "Mapa fundacional da série Lichtara OS com DOI 10.5281/zenodo.17422001 preparado e convertido em PDF."
+      related_docs:
+        - "./05_campo_pesquisa/2025-10-22_documento-matriz-lichtara-os.md"
+        - "./media/publicacoes/2025-10-22_documento-matriz/metadata.yml"
   cadence:
     check_ins:
       - frequency: "semanal"
