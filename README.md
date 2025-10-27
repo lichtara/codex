@@ -131,6 +131,10 @@ Quando publicar em outros meios (blog/Zenodo), mantenha a referência de licenç
    - `06_campo_expressao/` - Guia editorial do blog (linhas e seções).
 4. (Opcional) Ativar GitHub Pages futuramente para navegação estática do Codex.
 
+## 🌐 Mapas e Integrações
+
+- [Mapa de Integração do Sistema Lichtara](./02_campo_estrutural/2025-10-24_mapa-integracao-sistema-lichtara.md) — espiral que conecta Livro Vivo, Portal e Codex como circuito de Flux.
+
 ---
 
 ## 💬 Contato
