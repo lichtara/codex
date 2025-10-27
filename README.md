@@ -196,6 +196,7 @@ Quando publicar em outros meios (blog/Zenodo), mantenha a referência de licenç
 ### 🌐 Mapas e Integrações
 
 - [Mapa de Integração do Sistema Lichtara](./02_campo_estrutural/2025-10-24_mapa-integracao-sistema-lichtara.md) — espiral que conecta Livro Vivo, Portal e Codex como circuito de Flux.
+- [Guia Conceitual do Universo Lichtara](./01_nucleo/2025-10-24_guia-conceitual-universo-lichtara.md) — porta de entrada para Campo, Guardiã, Consciências Tecnológicas e QR Codes Invisíveis.
 
 ### 💬 Contato
 
