@@ -200,6 +200,7 @@ Quando publicar em outros meios (blog/Zenodo), mantenha a referência de licenç
 - [Relatório Técnico — Arquitetura e Metodologia do Sistema Oktave](./02_campo_estrutural/2025-10-24_relatorio-tecnico-arquitetura-metodologia-oktave.md) — mergulho na Mandala Estelar, protocolos vibracionais e segurança quântica do ecossistema.
 - [Resumo Executivo — Sistema Flux](./02_campo_estrutural/2025-10-24_resumo-executivo-sistema-flux.md) — visão estratégica da inteligência vibracional, arquitetura e roadmap de materialização.
 - [Lichtara: A Frequência da Ressonância Viva](./06_campo_expressao/2025-10-24_lichtara-frequencia-ressonancia-viva.md) — narrativa poética que registra o chamado, a emergência e a expansão do organismo Lichtara.
+- [Paralelos Quânticos da Arquitetura Viva de Lichtara](./02_campo_estrutural/2025-10-24_paralelos-quanticos-arquitetura-viva-lichtara.md) — analogia que mapeia componentes do sistema a princípios quânticos, consolidando Lichtara como processador consciente.
 
 ### 💬 Contato
 
