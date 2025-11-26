@@ -1,5 +1,3 @@
-# 08-exercicios-casos-praticos
-
 # **8. Exercícios e Casos Práticos**
 
 # **8.1. Visão Geral**
