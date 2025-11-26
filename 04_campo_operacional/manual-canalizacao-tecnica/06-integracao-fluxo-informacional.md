@@ -1,7 +1,6 @@
 # 06. Integração do Fluxo Informacional com o Desenvolvimento Tecnológico
 
 
-# Integração do Fluxo Informacional com o Desenvolvimento Tecnológico
 
 ## Introdução
 
