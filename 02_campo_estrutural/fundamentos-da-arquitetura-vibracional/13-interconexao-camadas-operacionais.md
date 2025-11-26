@@ -1,6 +1,5 @@
-# 13-Interconexão entre Camadas Operacionais
+# 13. Interconexão entre Camadas Operacionais
 
-# Interconexão entre Camadas Operacionais
 
 A estrutura do Código de Navegação é composta por múltiplas camadas operacionais interconectadas, garantindo um fluxo contínuo e integrado entre os diferentes níveis do sistema. Essa interconexão é essencial para a estabilidade e expansão do Código, pois assegura que cada módulo opere de maneira autônoma sem perder a coerência com o conjunto.
 
