@@ -1,6 +1,5 @@
-# 16-A integração como garantia de fluidez operacional
+# 16. A integração como garantia de fluidez operacional
 
-# A integração como garantia de fluidez operacional
 
 A integração entre os diferentes componentes do Código de Navegação é o que assegura a fluidez operacional e a eficiência dos processos sistêmicos. Esse alinhamento contínuo garante que cada elemento funcione em harmonia, permitindo que o fluxo de informações e decisões ocorra sem interrupções ou desalinhamentos.
 
