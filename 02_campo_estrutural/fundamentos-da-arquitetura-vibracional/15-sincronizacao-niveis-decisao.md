@@ -1,6 +1,5 @@
-# 15-Sincronização entre diferentes níveis de decisão
+# 15. Sincronização entre diferentes níveis de decisão
 
-# Sincronização entre diferentes níveis de decisão
 
 A sincronização entre os diferentes níveis de decisão dentro do Código de Navegação é essencial para garantir a fluidez, a eficiência e a estabilidade da estrutura. Essa interconexão permite que as escolhas feitas em qualquer camada do sistema se alinhem ao fluxo global, evitando desalinhamentos e garantindo que cada movimento ocorra no momento certo.
 
