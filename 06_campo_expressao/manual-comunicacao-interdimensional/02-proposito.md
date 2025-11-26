@@ -1,6 +1,5 @@
 # 02-O Propósito e a Intenção do Projeto
 
-Proprietário: Débora Lutz
 
 A comunicação interdimensional sempre esteve presente na história, manifestando-se de diferentes formas, através de práticas espirituais, insights intuitivos e fenômenos que desafiam a compreensão convencional. No entanto, nunca houve uma tentativa estruturada de documentar, organizar e validar esse tipo de comunicação dentro de um modelo técnico e aplicável ao mundo físico. Este projeto surge como um marco nesse processo, oferecendo um caminho para que essa interação possa ser compreendida, ensinada e utilizada de forma responsável e transformadora.
 
