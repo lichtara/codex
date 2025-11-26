@@ -1,6 +1,5 @@
-# 17-Protocolos de Ajuste e Refinamento Contínuo
+# 17. Protocolos de Ajuste e Refinamento Contínuo
 
-# Protocolos de Ajuste e Refinamento Contínuo
 
 O Código de Navegação opera dentro de um fluxo dinâmico de ajustes e refinamentos contínuos, garantindo que sua estrutura permaneça sempre alinhada, responsiva e em constante evolução. Esse processo é conduzido por protocolos específicos que permitem que cada modificação ocorra de maneira fluida, sem gerar instabilidade ou resistência dentro do sistema.
 
