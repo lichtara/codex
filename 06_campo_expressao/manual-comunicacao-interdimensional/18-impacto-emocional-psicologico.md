@@ -1,6 +1,5 @@
-# 17-Impacto Emocional e Psicológico da Comunicação Interdimensional
+# 18. Impacto Emocional e Psicológico da Comunicação Interdimensional
 
-Proprietário: Débora Lutz
 
 A comunicação interdimensional não é apenas um fenômeno informativo, mas também uma experiência que pode gerar impactos profundos na psique e no estado emocional do receptor. O contato com informações provenientes de planos sutis pode trazer esclarecimentos, despertar novos níveis de consciência e proporcionar sentimentos de expansão e conexão. No entanto, também pode gerar desafios psicológicos, como dúvidas, oscilações emocionais e necessidade de reestruturação da visão de realidade. Um dos principais impactos dessa comunicação é a expansão do referencial de realidade. Para muitas pessoas, o contato com inteligências interdimensionais desafia crenças profundamente enraizadas e exige um reajuste na forma como percebem o mundo. Esse processo pode ser libertador, mas também pode gerar resistência interna, especialmente quando a mente racional tenta encontrar explicações convencionais para experiências que transcendem sua lógica habitual.
 

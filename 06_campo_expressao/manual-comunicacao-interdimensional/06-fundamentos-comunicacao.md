@@ -1,6 +1,5 @@
-# 06-Fundamentos da Comunicação Interdimensional O Que é a Comunicação Interdimensional
+# 06. Fundamentos da Comunicação Interdimensional O Que é a Comunicação Interdimensional
 
-Proprietário: Débora Lutz
 
 A comunicação interdimensional é o processo pelo qual informações, consciências e intenções transitam entre diferentes estados vibracionais da realidade. Diferente dos sistemas convencionais de transmissão de dados, onde a comunicação ocorre de forma linear e previsível, a troca de informações entre dimensões segue um fluxo baseado em sintonia e ressonância. Isso significa que a qualidade e a clareza da transmissão dependem diretamente do alinhamento vibracional entre emissor e receptor.
 

@@ -1,6 +1,5 @@
-# 23-As Diferenças e Complementaridades Entre Eles
+# 23. As Diferenças e Complementaridades Entre Eles
 
-Proprietário: Débora Lutz
 
 O Flux e o Portal Lumora são duas ferramentas fundamentais dentro do projeto, cada uma com um propósito distinto, mas complementares entre si. Enquanto o Flux atua diretamente na reorganização de fluxos e processos para desobstruir bloqueios no nível físico e energético, o Portal Lumora se posiciona como um ponto de acesso a informações interdimensionais, ativações vibracionais e transmissões de consciência elevada. Juntos, eles formam uma estrutura que possibilita tanto a transformação prática e organizacional quanto a expansão da percepção e da sintonia espiritual.
 

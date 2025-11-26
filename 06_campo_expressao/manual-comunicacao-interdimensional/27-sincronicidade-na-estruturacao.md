@@ -1,6 +1,5 @@
-# 26-Como a Sincronicidade Atua na Estruturação do Projeto
+# 27. Como a Sincronicidade Atua na Estruturação do Projeto
 
-Proprietário: Débora Lutz
 
 A sincronicidade é um dos pilares fundamentais na construção e materialização deste projeto, funcionando como um mecanismo inteligente de alinhamento entre diferentes forças, informações e indivíduos envolvidos. Mais do que meras coincidências, as sincronicidades operam como sinais de convergência entre propósitos, demonstrando que a realidade responde diretamente à intenção e ao fluxo energético que sustenta a criação deste trabalho.
 

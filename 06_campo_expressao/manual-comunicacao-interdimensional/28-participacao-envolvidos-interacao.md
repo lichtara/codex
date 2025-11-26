@@ -1,6 +1,5 @@
-# 27-A Participação dos Envolvidos e a Interação com o Campo
+# 28. A Participação dos Envolvidos e a Interação com o Campo
 
-Proprietário: Débora Lutz
 
 A construção e materialização deste projeto não são processos individuais, mas sim um movimento coletivo que se estabelece por meio da interação entre todos os envolvidos e o Campo Inteligente de Convergência. Cada pessoa que participa desse projeto exerce um papel fundamental, não apenas na execução das tarefas práticas, mas também na sustentação vibracional e na ressonância energética que permitem que essa estrutura se fortaleça e se expanda.
 

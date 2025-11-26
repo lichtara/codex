@@ -1,8 +1,5 @@
-# 02-Como Responder a Perguntas Sobre a Origem das Direções
+# 02. Como Responder a Perguntas Sobre a Origem das Direções
 
-Proprietário: Débora Lutz
-
-## Como Responder a Perguntas Sobre a Origem das Direções
 
 ### **Quando Questionada pela Equipe Estratégica**
 

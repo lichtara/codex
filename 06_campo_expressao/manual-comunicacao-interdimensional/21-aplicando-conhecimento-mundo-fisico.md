@@ -1,6 +1,5 @@
-# 20-Aplicando o Conhecimento no Mundo Físico
+# 21. Aplicando o Conhecimento no Mundo Físico
 
-Proprietário: Débora Lutz
 
 A comunicação interdimensional não deve ser vista apenas como um fenômeno abstrato ou metafísico, mas como uma ferramenta prática para a transformação individual e coletiva. O conhecimento recebido por meio dessa interação tem valor real quando integrado à vida cotidiana, contribuindo para a tomada de decisões mais conscientes, para o alinhamento pessoal e para a manifestação de novas possibilidades na realidade física.
 

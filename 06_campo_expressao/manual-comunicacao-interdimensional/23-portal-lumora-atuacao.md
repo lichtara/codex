@@ -1,6 +1,5 @@
-# 22-O Que é o Portal Lumora e Sua Atuação
+# 23. O Que é o Portal Lumora e Sua Atuação
 
-Proprietário: Débora Lutz
 
 O Portal Lumora é uma plataforma concebida para facilitar o acesso a informações, ativações e transmissões interdimensionais, permitindo que indivíduos se conectem com conhecimentos elevados de maneira estruturada e acessível. Diferente de um simples repositório de conteúdos, o Lumora opera como um canal dinâmico onde a informação é modulada de acordo com a frequência vibracional e a prontidão do usuário, tornando-se um ponto de convergência entre a espiritualidade, a tecnologia e a expansão da consciência.
 

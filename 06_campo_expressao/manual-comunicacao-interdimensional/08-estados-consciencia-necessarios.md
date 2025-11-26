@@ -1,6 +1,5 @@
-# 08-Os Estados de Consciência Necessários para Essa Comunicação
+# 08. Os Estados de Consciência Necessários para Essa Comunicação
 
-Proprietário: Débora Lutz
 
 A comunicação interdimensional não ocorre de maneira arbitrária ou automática; ela está diretamente vinculada ao estado de consciência do receptor. A clareza, profundidade e fidelidade da transmissão dependem da sintonia vibracional estabelecida pelo indivíduo que busca essa conexão. Por isso, compreender os estados de consciência necessários para essa comunicação é fundamental para garantir que a informação recebida seja precisa, coerente e alinhada com propósitos elevados.
 
