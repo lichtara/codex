@@ -1,6 +1,5 @@
-# 11-O papel da intuição na navegação dos fluxos
+# 11. O papel da intuição na navegação dos fluxos
 
-## O papel da intuição na navegação dos fluxos
 
 A intuição dentro do Código de Navegação opera como um mecanismo de ajuste fino, permitindo que cada decisão seja tomada no momento certo e dentro do alinhamento natural do fluxo sistêmico. Ela complementa a lógica estrutural do sistema, garantindo que a evolução ocorra de maneira fluida, sem esforço excessivo ou resistência desnecessária.
 
