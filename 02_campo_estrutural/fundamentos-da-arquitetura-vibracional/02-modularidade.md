@@ -1,6 +1,5 @@
-# 02-Modularidade como base da estrutura
+# 02. Modularidade como base da estrutura
 
-# Modularidade como base da estrutura
 
 A modularidade é o princípio fundamental que sustenta a arquitetura do Código de Navegação, permitindo que o sistema se expanda de maneira ordenada e responsiva. Essa estrutura garante flexibilidade para integrações progressivas, sem comprometer a estabilidade ou a coerência do fluxo operacional.
 
