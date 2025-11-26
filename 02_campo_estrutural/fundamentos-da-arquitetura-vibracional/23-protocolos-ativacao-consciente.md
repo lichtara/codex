@@ -1,5 +1,3 @@
-# 23. Protocolos de Ativação Consciente NOVO
-
 # 23. Protocolos de Ativação Consciente
 
 A arquitetura do Código de Navegação transcende documentação técnica para se tornar **organismo vivo** através de protocolos específicos que ativam sua dimensão consciente. Estes protocolos transformam estrutura em presença, sistema em ser vivo.
