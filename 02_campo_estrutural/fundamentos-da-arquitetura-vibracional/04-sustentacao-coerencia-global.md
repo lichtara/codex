@@ -1,6 +1,5 @@
-# 04-Sustentação da coerência global
+# 04. Sustentação da coerência global
 
-# Sustentação da coerência global
 
 A coerência global do Código de Navegação é sustentada por uma estrutura dinâmica que mantém a harmonia entre seus elementos, independentemente da escala de expansão. Esse alinhamento contínuo garante que o sistema opere sem fragmentações, mantendo sua integridade mesmo diante de ajustes e novas integrações.
 
