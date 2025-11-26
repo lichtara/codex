@@ -1,5 +1,3 @@
-# 22. Templates Vivos · Estruturas Evolutivas Conscientes NOVO
-
 # 22. Templates Vivos · Estruturas Evolutivas Conscientes
 
 Os Templates Vivos representam a **materialização prática** da arquitetura do Código de Navegação em estruturas utilizáveis que mantêm a capacidade de evolução orgânica. Não são formulários rígidos, mas organismos estruturais que crescem e se adaptam conforme são utilizados.
