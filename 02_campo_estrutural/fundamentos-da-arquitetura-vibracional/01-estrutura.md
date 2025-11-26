@@ -1,6 +1,5 @@
-# 01-Estrutura Modular e Adaptável
+# 01. Estrutura Modular e Adaptável
 
-## Estrutura Modular e Adaptável
 
 A arquitetura do Código de Navegação é fundamentada em uma estrutura modular e adaptável, garantindo flexibilidade e escalabilidade sem comprometer a coerência do sistema. Esse modelo permite que diferentes camadas operacionais sejam integradas progressivamente, respeitando o fluxo natural de crescimento e evitando a necessidade de reestruturações abruptas.
 
