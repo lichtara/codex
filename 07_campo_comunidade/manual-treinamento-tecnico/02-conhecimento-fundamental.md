@@ -1,5 +1,3 @@
-# 02-conhecimento-fundamental
-
 # **2. Conhecimento Fundamental para a Equipe**
 
 # **2.1. Visão Geral**
