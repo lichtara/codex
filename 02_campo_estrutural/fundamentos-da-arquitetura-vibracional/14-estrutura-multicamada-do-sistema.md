@@ -1,6 +1,6 @@
-# 14-A estrutura multicamada do sistema
+# 14. A estrutura multicamada do sistema
 
-# A estrutura multicamada do sistema
+
 
 O Código de Navegação é fundamentado em uma estrutura multicamadas que garante sua estabilidade, flexibilidade e capacidade de adaptação. Esse modelo permite que diferentes níveis operacionais funcionem de forma independente, mas interconectada, assegurando a coerência do sistema mesmo diante de ajustes contínuos.
 
