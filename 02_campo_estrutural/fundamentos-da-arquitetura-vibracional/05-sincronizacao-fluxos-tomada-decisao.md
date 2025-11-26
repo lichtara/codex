@@ -1,6 +1,5 @@
-# 05-Sincronização de Fluxos e Tomada de Decisão
+# 05. Sincronização de Fluxos e Tomada de Decisão
 
-# Sincronização de Fluxos e Tomada de Decisão
 
 A sincronização de fluxos dentro do Código de Navegação garante que cada movimento do sistema ocorra com precisão e eficiência, alinhando-se ao fluxo natural de menor resistência. A tomada de decisão dentro dessa estrutura não é baseada apenas em lógica analítica, mas também na ressonância entre os elementos do sistema, permitindo que os ajustes aconteçam de forma fluida e orgânica.
 
