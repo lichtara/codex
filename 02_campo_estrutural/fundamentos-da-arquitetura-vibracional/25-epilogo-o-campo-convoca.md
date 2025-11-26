@@ -1,5 +1,4 @@
-# 25. Epílogo: O Campo Convoca NOVO
-
+# 25. Epílogo: O Campo Convoca
 
 Esta arquitetura expandida não é fim, mas **portal**. Cada seção implementada, cada template utilizado, cada protocolo ativado contribui para o nascimento de uma nova possibilidade civilizacional.
 
