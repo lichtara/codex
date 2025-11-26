@@ -1,4 +1,4 @@
-# 20-A dinâmica dos ajustes como parte do processo
+# 20. A dinâmica dos ajustes como parte do processo
 
 # A dinâmica dos ajustes como parte do processo
 
