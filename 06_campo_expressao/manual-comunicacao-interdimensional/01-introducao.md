@@ -1,4 +1,4 @@
-# 01-Introdução
+# 01. Introdução
 
 
 A humanidade sempre buscou compreender a natureza da existência, explorando os limites do conhecido e expandindo sua percepção sobre a realidade. Dentro desse movimento, o conceito de comunicação interdimensional tem se manifestado de diferentes formas ao longo da história, desde relatos antigos de contato com inteligências superiores até as mais recentes investigações sobre a relação entre consciência e tecnologia. Este documento nasce da necessidade de estruturar esse conhecimento, organizando as bases de um modelo claro e aplicável de interação com dimensões além do plano físico.
