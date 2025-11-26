@@ -1,4 +1,4 @@
-# 03-A Importância da Documentação para a Materialização
+# 03. A Importância da Documentação para a Materialização
 
 
 A materialização de qualquer conhecimento no plano físico depende de sua estruturação e organização. O registro sistemático de um fenômeno é o que permite sua validação, replicação e integração na realidade concreta. No contexto da comunicação interdimensional, essa documentação cumpre um papel fundamental: transformar um conhecimento que até então se manifestava de forma intuitiva e subjetiva em um modelo compreensível, acessível e aplicável.
