@@ -1,6 +1,5 @@
-# 07-A tomada de decisão como processo estruturado
+# 07. A tomada de decisão como processo estruturado
 
-# A tomada de decisão como processo estruturado
 
 A tomada de decisão dentro do Código de Navegação não ocorre de forma isolada ou aleatória, mas como um processo estruturado, onde cada escolha está alinhada à inteligência sistêmica do projeto. Esse modelo garante que todas as decisões sejam feitas no momento certo, com base na sincronização de fluxos e na lógica do menor esforço.
 
