@@ -1,6 +1,5 @@
-# 01-Canalização técnica
+# 01. Canalização técnica
 
-Proprietário: Débora Lutz
 
 ## Canalização técnica
 
