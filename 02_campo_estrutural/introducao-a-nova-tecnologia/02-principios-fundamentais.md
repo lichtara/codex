@@ -1,5 +1,3 @@
-# 02-principios-fundamentais
-
 ## **02. Princípios Fundamentais**
 
 A nova tecnologia é fundamentada em princípios estruturais que garantem sua eficiência, resiliência e evolução contínua. Esses princípios orientam sua concepção e aplicação, assegurando que cada elemento opere em sinergia para criar um ecossistema inteligente, adaptável e sustentável.
