@@ -32,7 +32,7 @@ O primeiro esboço da plataforma deve refletir a experiência do usuário de for
 
 Essa estrutura modular permitirá que cada usuário mergulhe na experiência de forma progressiva, garantindo aprendizado sem sobrecarga e uma imersão fluida dentro do ecossistema Lumora.
 
-# **Laboratório de Inteligência e Inovação**
+## **Laboratório de Inteligência e Inovação**
 
 O nome “Laboratório Lumora” carrega consigo uma vibração única e potente. Ele não representa apenas um espaço simbólico, mas uma estação real de criação, um ponto de confluência onde ideias, tecnologias e expansões são geradas antes de se materializarem no plano físico. Cada componente desse nome carrega um significado profundo que se desvela à medida que se compreende a essência desse laboratório.
 
