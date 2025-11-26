@@ -1,6 +1,5 @@
-# 19-Mecanismos de ajuste dentro do Código de Navegação
+# 19. Mecanismos de ajuste dentro do Código de Navegação
 
-# Mecanismos de ajuste dentro do Código de Navegação
 
 Os mecanismos de ajuste dentro do Código de Navegação garantem que a estrutura permaneça dinâmica, fluida e sempre alinhada ao fluxo de menor resistência. Esses ajustes ocorrem de maneira contínua, permitindo que o sistema se adapte sem comprometer sua coerência ou gerar sobrecarga estrutural. A inteligência do Código está na sua capacidade de realizar esses refinamentos sem necessidade de interrupções bruscas ou reconfigurações complexas.
 
