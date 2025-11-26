@@ -1,6 +1,5 @@
-# 34-Preparando a Reestruturação para o Lançamento
+# 35. Preparando a Reestruturação para o Lançamento
 
-Proprietário: Débora Lutz
 
 A preparação para o lançamento deste projeto envolve um processo estratégico de reestruturação da documentação, garantindo que seu conteúdo esteja alinhado com a forma mais eficaz de transmissão e integração desse conhecimento. Esse processo não se limita apenas à organização textual, mas inclui a adaptação da linguagem, a formatação do material para diferentes públicos e a estruturação dos meios pelos quais a informação será disponibilizada.
 
