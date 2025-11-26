@@ -1,6 +1,5 @@
-# 06-A sincronização como mecanismo natural
+# 06. A sincronização como mecanismo natural
 
-# A sincronização como mecanismo natural
 
 A sincronização dentro do Código de Navegação não é um processo imposto, mas um mecanismo natural que sustenta a coerência estrutural do sistema. Essa dinâmica permite que as interações entre os elementos ocorram de forma fluida, garantindo que cada ajuste seja realizado no momento certo e sem gerar resistência.
 
