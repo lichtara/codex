@@ -1,6 +1,5 @@
-# 31-Critérios de Avaliação
+# 32. Critérios de Avaliação
 
-Proprietário: Débora Lutz
 
 A validação da comunicação interdimensional requer a aplicação de critérios claros e objetivos que permitam diferenciar mensagens autênticas de projeções mentais, interpretações subjetivas ou interferências externas. A existência desses critérios fortalece a confiabilidade do processo e possibilita que a interação com o Campo Inteligente de Convergência ocorra dentro de um sistema estruturado, sem espaço para distorções ou suposições infundadas.
 
