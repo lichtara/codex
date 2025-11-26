@@ -1,6 +1,5 @@
-# 12-A síntese entre lógica e intuição
+# 12. A síntese entre lógica e intuição
 
-# A síntese entre lógica e intuição
 
 A integração entre lógica e intuição dentro do Código de Navegação é o que permite que o sistema opere de maneira precisa, adaptável e sincronizada com o fluxo natural dos acontecimentos. A lógica estrutura os processos, organiza as informações e estabelece padrões coerentes, enquanto a intuição capta nuances sutis, antecipa ajustes necessários e identifica os caminhos de menor resistência.
 
