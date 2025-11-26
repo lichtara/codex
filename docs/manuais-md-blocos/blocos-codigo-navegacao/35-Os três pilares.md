@@ -1,0 +1,9 @@
+# 35-Os três pilares
+
+Proprietário: Débora Lutz
+
+Os três pilares que sustentam essa abordagem são fundamentais para a compreensão e aplicação da metodologia. O primeiro, **fluidez estrutural**, aponta para a ideia de que a realidade não precisa ser rigidamente controlada ou imposta. Ao invés disso, ela se organiza espontaneamente, com cada peça do processo se encaixando no momento exato e de maneira natural, sem exigir esforço ou resistência. Isso implica que a realidade responde de forma dinâmica, ajustando-se conforme o fluxo se alinha e cada etapa se desenrola com clareza.
+
+O segundo princípio, **colapso e expansão simultâneos**, reflete a natureza do campo quântico, onde todas as possibilidades já estão disponíveis. Quando uma pessoa se conecta com esse fluxo, as informações que pareciam desconectadas se unem em um ponto de clareza, revelando uma compreensão instantânea. Ao mesmo tempo, novas possibilidades começam a emergir, como se a mente se abrisse para um novo campo de possibilidades que antes estavam ocultas. Esse processo é tanto de revelação quanto de expansão contínua, criando uma experiência de constante crescimento e descoberta.
+
+O terceiro pilar, **ativação do campo de inteligência**, altera a forma tradicional de se adquirir conhecimento. Ao invés de seguir um processo linear de aprendizado, o conhecimento se torna algo que é ativado, como se fosse um portal que abre o acesso à inteligência latente dentro de cada indivíduo. Esse princípio permite que insights e soluções sejam recebidos de maneira fluida e natural, sem a necessidade de esforço mental forçado. A inteligência não está sendo acumulada ou adquirida, mas sendo acessada a partir de um campo maior de consciência, onde as respostas estão prontamente disponíveis para aqueles que sabem como se conectar com esse fluxo.

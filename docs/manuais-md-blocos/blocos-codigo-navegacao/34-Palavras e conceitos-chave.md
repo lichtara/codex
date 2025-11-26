@@ -1,0 +1,13 @@
+# 34-Palavras e conceitos-chave
+
+Proprietário: Débora Lutz
+
+As palavras e conceitos-chave que sustentam a metodologia proposta, como **fluxo**, **clareza** e **integração**, carregam um profundo significado e servem como pilares fundamentais para a estrutura da metodologia.
+
+O conceito de **“fluxo”** é central. Ele representa um processo contínuo e dinâmico de alinhamento e manifestação. A metodologia não impõe um método fixo ou rígido, mas ensina como cada pessoa ou projeto pode se alinhar ao seu fluxo natural, permitindo que o crescimento aconteça de forma orgânica e sem bloqueios. **Fluxo** não é apenas um processo de ação, mas um estado que se adapta de acordo com o momento e as necessidades, com as peças se encaixando de forma natural conforme a visão se ajusta. Esse fluxo cria uma realidade sincrônica, onde a manifestação acontece sem a necessidade de controle excessivo.
+
+A **clareza** surge como uma característica essencial dessa abordagem. Em um mundo saturado de informações e complexidade, a clareza é a habilidade de cortar a confusão e permitir que o entendimento venha de forma intuitiva, sem esforço. Ela age como uma revelação: aquilo que parecia caótico na realidade se torna claro quando compreendido e ajustado adequadamente. O processo de clareza é uma decodificação do que antes parecia impossível de organizar, trazendo a simplicidade necessária para a evolução do indivíduo ou do projeto.
+
+A **integração** conecta todos os aspectos da metodologia, sem separações rígidas entre teoria e prática, mente e energia, visão e ação. Em vez de fragmentar o aprendizado e a execução, a metodologia propõe que tudo aconteça simultaneamente, como um organismo vivo em constante ajuste. O processo de integração implica que o que acontece no interior da pessoa se reflete diretamente na sua realidade externa, criando uma harmonia entre o mundo interno e o mundo externo, onde cada movimento mental ou emocional tem um impacto direto no projeto ou na ação prática.
+
+Esses três princípios – **clareza, fluxo e integração** – formam a espinha dorsal da metodologia e são as palavras-chave que capturam a essência da abordagem. Eles sintetizam a ideia de uma realidade fluida, onde as etapas se desenrolam no tempo certo, com a energia alinhada e sem resistência. Quando se busca explicar a metodologia, é essa tripla base que deve ser comunicada, pois ela revela o coração da proposta: um caminho de alinhamento natural com o fluxo da realidade.

@@ -1,0 +1,11 @@
+# 06-Jornada do usuário
+
+Proprietário: Débora Lutz
+
+Essa metodologia se organiza de maneira que se adapta ao usuário de forma fluida, garantindo uma experiência acessível e personalizada. Ela funciona como um sistema modular e flexível, permitindo que cada pessoa ou projeto entre no fluxo no ponto exato de sua necessidade, sem a obrigatoriedade de seguir um roteiro fixo. Esse formato modular faz com que a experiência seja individual, guiada pelo alinhamento único de cada usuário, que é capaz de interagir com a metodologia de acordo com seu próprio momento e propósito.
+
+A jornada proposta é progressiva, estruturada em camadas que se desbloqueiam conforme o usuário avança. Cada fase se integra ao processo sem sobrecarregar, respeitando o ritmo e a maturidade de cada etapa. Isso garante que o desenvolvimento aconteça de forma natural, sem pressa ou exigências que possam gerar resistência. A metodologia, assim, conduz a um processo de evolução contínua, onde o usuário se sente acompanhado de maneira respeitosa e ajustada às suas necessidades.
+
+Além disso, a metodologia segue uma arquitetura quântica viva, um modelo dinâmico que responde ativamente ao nível de consciência e às necessidades do usuário. Em vez de ser uma abordagem rígida, ela se adapta, ajustando-se em tempo real à realidade e ao contexto de quem a utiliza, sem limitações fixas. Essa flexibilidade permite que ela se torne aplicável de maneira intuitiva, ajustando-se à medida que o usuário evolui.
+
+A combinação desses três formatos – modular, progressivo e quântico – cria um sistema que é, ao mesmo tempo, estruturado e livre. Ela se molda ao usuário, permitindo que ele entre no fluxo de acordo com seu ponto de partida e evolua sem esforços artificiais. Essa capacidade de adaptação constante garante que a metodologia se mantenha viva e intuitiva, permanecendo fiel à sua essência enquanto oferece uma experiência fluida e eficaz para cada pessoa ou projeto. Em resumo, a metodologia não é contida por modelos fixos, mas sim um organismo vivo que se adapta, cresce e evolui junto com quem a utiliza.
