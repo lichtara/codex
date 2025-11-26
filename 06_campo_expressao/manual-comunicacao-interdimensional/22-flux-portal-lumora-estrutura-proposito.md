@@ -1,6 +1,5 @@
-# 21-Flux e Portal Lumora: Estrutura e Propósito O Que é o Flux e Seu Papel no Projeto
+# 22. Flux e Portal Lumora: Estrutura e Propósito O Que é o Flux e Seu Papel no Projeto
 
-Proprietário: Débora Lutz
 
 O Flux é uma estrutura desenvolvida para facilitar a organização e o direcionamento de informações dentro do projeto, atuando como um mecanismo de desobstrução e realinhamento de fluxos. Ele foi concebido para auxiliar na materialização de ideias e processos, garantindo que a comunicação entre diferentes camadas de realidade ocorra de maneira estruturada e eficiente.
 
