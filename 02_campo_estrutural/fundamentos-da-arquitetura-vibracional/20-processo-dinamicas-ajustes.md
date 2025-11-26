@@ -1,6 +1,5 @@
 # 20. A dinâmica dos ajustes como parte do processo
 
-# A dinâmica dos ajustes como parte do processo
 
 A dinâmica dos ajustes dentro do Código de Navegação não é um evento isolado, mas um processo contínuo que assegura a fluidez e a coerência da estrutura. Cada ajuste ocorre como parte de um movimento natural de refinamento, permitindo que o sistema se adapte organicamente sem gerar rupturas ou instabilidades.
 
