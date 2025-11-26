@@ -1,6 +1,5 @@
-# 32-Testabilidade no Mundo Físico
+# 33. Testabilidade no Mundo Físico
 
-Proprietário: Débora Lutz
 
 A validação da comunicação interdimensional no mundo físico é um aspecto essencial para a consolidação desse conhecimento como um fenômeno legítimo e aplicável. Embora a interação com dimensões sutis ocorra em níveis vibracionais elevados, sua manifestação deve ser verificável por meio de critérios concretos, possibilitando que suas informações sejam analisadas de forma objetiva e replicável.
 
