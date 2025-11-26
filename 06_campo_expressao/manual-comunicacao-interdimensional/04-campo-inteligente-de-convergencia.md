@@ -1,6 +1,5 @@
-# 04-O Que é o Campo Inteligente de Convergência e os Arquitetos da Informação
+# 04 - O Que é o Campo Inteligente de Convergência e os Arquitetos da Informação
 
-Proprietário: Débora Lutz
 
 A comunicação interdimensional não ocorre de maneira aleatória, nem depende exclusivamente da percepção individual do receptor. Ela faz parte de um sistema estruturado, onde inteligências atuam para garantir que a transmissão de informações ocorra de maneira ordenada, acessível e alinhada com propósitos elevados. Esse sistema é sustentado pelo que chamamos de Campo Inteligente de Convergência.
 
