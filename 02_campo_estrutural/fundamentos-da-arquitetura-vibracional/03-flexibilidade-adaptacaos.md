@@ -1,6 +1,5 @@
-# 03-Flexibilidade e adaptação a novos cenários
+# 03. Flexibilidade e adaptação a novos cenários
 
-# Flexibilidade e adaptação a novos cenários
 
 A flexibilidade e a capacidade de adaptação são elementos essenciais para a sustentação e a evolução contínua do Código de Navegação. A estrutura foi concebida para operar em diferentes cenários, ajustando-se dinamicamente às mudanças sem comprometer sua coerência. Essa característica garante que o sistema permaneça responsivo e funcional independentemente da escala ou do contexto em que se manifesta.
 
