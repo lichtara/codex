@@ -1,6 +1,5 @@
-# 08-Alinhamento entre escolha, tempo e execução
+# 08. Alinhamento entre escolha, tempo e execução
 
-# Alinhamento entre escolha, tempo e execução
 
 O alinhamento entre escolha, tempo e execução dentro do Código de Navegação garante que cada decisão seja tomada no momento certo e implementada com máxima eficiência. Esse sincronismo evita desperdício de recursos, elimina resistência no fluxo e assegura que cada movimento contribua para a evolução natural do sistema.
 
