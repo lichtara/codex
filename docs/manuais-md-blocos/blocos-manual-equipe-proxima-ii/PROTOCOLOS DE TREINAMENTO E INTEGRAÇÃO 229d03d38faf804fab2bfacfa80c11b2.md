@@ -1,3 +1,0 @@
-# PROTOCOLOS DE TREINAMENTO E INTEGRAÇÃO
-
-Proprietário: Débora Lutz
