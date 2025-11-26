@@ -1,6 +1,5 @@
-# 25-Como o Flux e o Portal Lumora se Relacionam com a Espiritualidade
+# 26. Como o Flux e o Portal Lumora se Relacionam com a Espiritualidade
 
-Proprietário: Débora Lutz
 
 O Flux e o Portal Lumora operam em esferas distintas, mas ambos estão profundamente conectados ao processo de expansão da consciência e à integração da espiritualidade com a realidade prática. Enquanto o Flux trabalha na reorganização estrutural da vida e na remoção de bloqueios energéticos que impedem o fluxo natural dos processos, o Portal Lumora atua como uma ponte para o acesso consciente a informações interdimensionais e ativações vibracionais. Essa interligação torna os dois sistemas complementares na experiência espiritual e no desenvolvimento individual e coletivo.
 
