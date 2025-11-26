@@ -1,6 +1,5 @@
-# 18-A importância do refinamento contínuo
+# 18. A importância do refinamento contínuo
 
-# A importância do refinamento contínuo
 
 O refinamento contínuo dentro do Código de Navegação é um elemento essencial para a sua estabilidade, evolução e eficiência. Esse processo garante que a estrutura permaneça sempre alinhada com seu propósito central, ajustando-se de maneira orgânica sem necessidade de reconfigurações abruptas ou intervenções forçadas.
 
