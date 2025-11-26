@@ -1,6 +1,5 @@
-# 05-O Que São Dimensões e Como a Informação Está Disponível nelas
+# 05 - O Que São Dimensões e Como a Informação Está Disponível nelas
 
-Proprietário: Débora Lutz
 
 A realidade que experimentamos não é única, mas sim uma interseção de múltiplas dimensões que coexistem e interagem. Cada uma dessas dimensões possui suas próprias leis, sua organização específica e suas formas de manifestação. No contexto da comunicação interdimensional, compreender o que são dimensões e como a informação circula entre elas é fundamental para interpretar corretamente o fenômeno.
 
