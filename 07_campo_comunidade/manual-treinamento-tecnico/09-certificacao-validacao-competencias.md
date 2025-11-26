@@ -1,5 +1,3 @@
-# 09-certificacao-validacao-competencias
-
 # **9. Certificação e Validação de Competências**
 
 # **9.1. Visão Geral**

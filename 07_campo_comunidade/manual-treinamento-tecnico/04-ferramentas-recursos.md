@@ -1,5 +1,3 @@
-# 04-ferramentas-recursos
-
 # **4. Uso das Ferramentas e Recursos**
 
 # **4.1. Visão Geral**

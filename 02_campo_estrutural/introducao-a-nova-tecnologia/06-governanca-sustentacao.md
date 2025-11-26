@@ -1,5 +1,3 @@
-# 06-governanca-sustentacao
-
 # **06. Governança e Sustentação**
 
 A governança e a sustentação da nova tecnologia são estruturadas para garantir estabilidade, segurança e evolução contínua. O modelo adotado equilibra diretrizes estratégicas com flexibilidade operacional, permitindo que a tecnologia se adapte a diferentes cenários sem comprometer sua integridade estrutural.

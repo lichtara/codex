@@ -1,5 +1,3 @@
-# 04-componentes-tecnologicos
-
 # **04. Componentes Tecnológicos**
 
 A nova tecnologia é composta por uma série de componentes essenciais que garantem seu funcionamento eficiente, adaptabilidade e escalabilidade. Cada elemento desempenha um papel estratégico na estrutura do sistema, assegurando que os fluxos operacionais ocorram de maneira fluida, segura e otimizada.

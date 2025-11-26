@@ -1,5 +1,3 @@
-# 06-protocolos-seguranca-etica
-
 # **6. Protocolos de Segurança e Ética**
 
 # **6.1. Visão Geral**

@@ -1,5 +1,3 @@
-# 10-revisao-atualizacao-periodica
-
 # **10. Revisão e Atualização Periódica**
 
 # **10.1. Visão Geral**

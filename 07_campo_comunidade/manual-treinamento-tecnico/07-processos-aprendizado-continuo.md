@@ -1,5 +1,3 @@
-# 07-processos-aprendizado-continuo
-
 # **7. Processos de Aprendizado Contínuo**
 
 # **7.1. Visão Geral**
