@@ -1,5 +1,3 @@
-# 01-visao-geral
-
 # **Manual de Treinamento Técnico da Equipe**
 
 # **1. Visão Geral**
