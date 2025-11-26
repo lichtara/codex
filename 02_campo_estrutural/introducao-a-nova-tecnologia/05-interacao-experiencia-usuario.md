@@ -1,5 +1,3 @@
-# 05-interacao-experiencia-usuario
-
 # **05. Interação e Experiência do Usuário**
 
 A interação e a experiência do usuário são elementos centrais para garantir que a nova tecnologia seja intuitiva, eficiente e acessível. O foco no design centrado no usuário permite que a navegação ocorra de forma fluida, reduzindo barreiras e otimizando a usabilidade. A estrutura da experiência é baseada em princípios de adaptabilidade, personalização e engajamento contínuo.
