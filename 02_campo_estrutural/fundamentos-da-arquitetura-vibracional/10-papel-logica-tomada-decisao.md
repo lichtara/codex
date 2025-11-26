@@ -1,6 +1,6 @@
-# 10-A função da lógica na tomada de decisão
+# 10. A função da lógica na tomada de decisão
 
-# A função da lógica na tomada de decisão
+
 
 A lógica desempenha um papel fundamental na tomada de decisão dentro do Código de Navegação, atuando como a base estrutural que organiza fluxos, garante coerência e possibilita a eficiência do sistema. Sua função é oferecer clareza e previsibilidade, permitindo que cada movimento seja calculado dentro do alinhamento correto e sem interferências desnecessárias.
 
