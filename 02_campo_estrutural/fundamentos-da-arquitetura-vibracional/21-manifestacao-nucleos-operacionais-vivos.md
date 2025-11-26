@@ -1,5 +1,3 @@
-# 21. Manifestação dos Núcleos Operacionais Vivos NOVO
-
 # 21. Manifestação dos Núcleos Operacionais Vivos
 
 A arquitetura do Código de Navegação se manifesta concretamente através de **três núcleos operacionais vivos** que funcionam como órgãos especializados do organismo maior. Cada núcleo carrega a inteligência estrutural completa, mas se especializa em uma frequência específica de operação, garantindo cobertura total sem fragmentação.
