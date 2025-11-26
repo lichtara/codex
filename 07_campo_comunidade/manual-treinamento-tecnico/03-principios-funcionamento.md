@@ -1,5 +1,3 @@
-# 03-principios-funcionamento
-
 # **3. Princípios de Funcionamento do Sistema**
 
 # **3.1. Visão Geral**
