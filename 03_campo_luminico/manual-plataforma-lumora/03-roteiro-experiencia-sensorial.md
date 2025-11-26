@@ -1,6 +1,4 @@
-# 03-roteiro-experiencia-sensorial
-
-# **Roteiro de Experiência Sensorial**
+# **03. Roteiro de Experiência Sensorial**
 
 A experiência sensorial do portal precisa ser desenvolvida de forma que a travessia seja sentida de maneira real, permitindo que o usuário perceba a mudança não apenas visualmente, mas vibracionalmente. Esse processo deve ser conduzido de maneira intuitiva, criando uma transição fluida entre estados energéticos.
 

@@ -1,6 +1,4 @@
-# 12-autossustentabilidade-expansao-plataforma
-
-# **12. Autossustentabilidade e Expansão Natural**
+# **07. Autossustentabilidade e Expansão Natural**
 
 ### **Visão Geral**
 

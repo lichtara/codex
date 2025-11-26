@@ -1,6 +1,4 @@
-# 02-roteiro-experiencia-inicial-usuario
-
-# Roteiro da Experiência do Usuário
+# 02. Roteiro da Experiência do Usuário
 
 ### **Experiência inicial**
 

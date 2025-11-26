@@ -1,6 +1,5 @@
-# 05-guia-implementacao-plataforma-lumora
 
-# **Guia de Implementação da Natureza Adaptativa e Expansiva da Plataforma Lumora**
+# **06. Guia de Implementação da Natureza Adaptativa e Expansiva da Plataforma Lumora**
 
 ### **Introdução**
 
