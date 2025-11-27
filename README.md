@@ -37,20 +37,6 @@ Arquivos e pastas na raiz:
 
 Observação: `_manifest.yml` contém o mapeamento canônico dos 8 campos, o esquema de front matter e políticas de publicação.
 
----
-
-## Os 8 Campos (resumo)
-
-- 01_nucleo — Núcleo: documentos-matriz (manifesto, princípios, carta do SIM).  
-- 02_campo_estrutural — Campo Estrutural: mapas, diagramas, arquitetura e licenças.  
-- 03_campo_luminico — Campo Lumínico: glossários, símbolos, códigos e prólogos.  
-- 04_campo_operacional — Campo Operacional: protocolos, guias e procedimentos.  
-- 05_campo_pesquisa — Campo de Pesquisa: relatórios, referências e validações.  
-- 06_campo_expressao — Campo de Expressão: blog, poéticas e códigos visuais.  
-- 07_campo_comunidade — Campo de Comunidade: círculos, laboratórios e comunicados.  
-- 08_campo_sintese — Campo de Síntese: sínteses, cronologias e integrações.
-
-Consulte `_manifest.yml` para intentos, políticas e o esquema editorial detalhado.
 
 ---
 
