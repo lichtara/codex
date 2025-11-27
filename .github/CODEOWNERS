@@ -1,0 +1,13 @@
+# Revisores por área - solicita automaticamente revisão no PR
+/docs/ @deboralutz
+/01_nucleo/ @deboralutz
+/02_campo_estrutural/ @deboralutz
+/03_campo_luminico/ @deboralutz
+/04_campo_operacional/ @deboralutz
+/05_campo_pesquisa/ @deboralutz
+/06_campo_expressao/ @deboralutz
+/07_campo_comunidade/ @deboralutz
+/08_campo_sintese/ @deboralutz
+
+# Fallback para tudo
+* @deboralutz
