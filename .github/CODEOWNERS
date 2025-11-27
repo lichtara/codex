@@ -1,5 +1,6 @@
 # Revisores por área - solicita automaticamente revisão no PR
 /docs/ @deboralutz
+/media/ @deboralutz
 /01_nucleo/ @deboralutz
 /02_campo_estrutural/ @deboralutz
 /03_campo_luminico/ @deboralutz
@@ -8,6 +9,13 @@
 /06_campo_expressao/ @deboralutz
 /07_campo_comunidade/ @deboralutz
 /08_campo_sintese/ @deboralutz
+
+# Arquivos de configuração e raiz
+/_manifest.yml @deboralutz
+/circuito-servico.yaml @deboralutz
+/.zenodo.json @deboralutz
+/CONTRIBUTING.md @deboralutz
+/README.md @deboralutz
 
 # Fallback para tudo
 * @deboralutz

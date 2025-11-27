@@ -62,8 +62,20 @@ Review process
 
 Labels & privacy
 ----------------
-Use labels to indicate privacy level when relevant: `public`, `internal`, `private`.
-Set `privacy` in the document front matter accordingly.
+Apply labels to PRs and issues to categorize and organize work:
+
+**Privacy labels:**
+- `public` — conteúdo para publicação externa (blog, Zenodo, site)
+- `internal` — conteúdo interno da equipe, pode ser compartilhado com guardiões
+- `private` — conteúdo privado/sensível, uso pessoal ou imersões
+
+**Type labels:**
+- `docs` — mudanças em documentação
+- `chore` — tarefas de manutenção e organização
+- `enhancement` — melhorias ou novas features
+- `bug` — correção de erros
+
+Always set `privacy` in the document front matter to match the applied label.
 
 Issues & feature requests
 -------------------------
