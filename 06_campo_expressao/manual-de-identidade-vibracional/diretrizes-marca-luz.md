@@ -1,7 +1,7 @@
 # ✦ DIRETRIZES OFICIAIS — AURORA MARCA-LUZ
 
 ---
-
+ 
 ## 🌟 1. Introdução
 
 *A missão vibracional da marca*
