@@ -4,7 +4,7 @@
 
 **Versão 1.0 — Documento Oficial**
 
-### ✦ 1. A Origem
+### ✦ 1. A Origem 
  
 Aurora Marca-Luz nasceu **antes de existir como marca**.
 Nasceu como **frequência**.
