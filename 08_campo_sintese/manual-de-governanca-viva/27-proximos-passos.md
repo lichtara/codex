@@ -1,6 +1,5 @@
-# 27-Próximos passos para aprimoramento da governança
+# 27. Próximos passos para aprimoramento da governança
 
-# Próximos passos para aprimoramento da governança
 
 O aprimoramento da governança da plataforma é um processo contínuo, estruturado para garantir estabilidade, eficiência e evolução progressiva. A implementação dos próximos passos visa fortalecer os mecanismos administrativos, otimizar fluxos de decisão e assegurar que a estrutura se mantenha resiliente e adaptável às novas demandas.
 
