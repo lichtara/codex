@@ -1,10 +1,6 @@
-# 01-Introdução
+# Manual Administracao e Governanca*
 
-*Manual Administracao e Governanca*
-
-# **Manual de Administração e Governança**
-
-# Introdução
+## Introdução
 
 O Manual de Administração e Governança estabelece as diretrizes fundamentais para a estruturação, operação e evolução contínua da plataforma, garantindo que sua gestão ocorra dentro de princípios sólidos de organização, eficiência e segurança. A governança deste sistema é concebida para ser adaptável e responsiva, assegurando que cada decisão e ajuste fortaleça a estrutura global sem comprometer sua integridade ou funcionalidade.
 
