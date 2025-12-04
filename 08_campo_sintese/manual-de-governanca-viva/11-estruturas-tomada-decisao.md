@@ -1,4 +1,4 @@
-#  10. Estruturas de Governança e Tomada de Decisão
+#  11. Estruturas de Governança e Tomada de Decisão
 
 ### Modelos de governança distribuída
 
