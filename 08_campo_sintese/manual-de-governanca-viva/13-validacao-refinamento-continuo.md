@@ -1,6 +1,4 @@
-# 13-Fluxos de validação e refinamento contínuo
-
-# Fluxos de validação e refinamento contínuo
+# 13. Fluxos de Validação e Refinamento Contínuo
 
 A governança da plataforma opera dentro de um modelo dinâmico onde a validação e o refinamento contínuo garantem a evolução sustentável do sistema. Em vez de decisões fixas e imutáveis, o processo de validação ocorre de maneira cíclica, permitindo que ajustes sejam aplicados progressivamente para manter a coerência estrutural e o alinhamento estratégico.
 
