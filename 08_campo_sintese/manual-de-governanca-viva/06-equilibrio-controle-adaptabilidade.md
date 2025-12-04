@@ -1,6 +1,4 @@
-# 06-Equilíbrio entre controle e adaptabilidade
-
-# Equilíbrio entre controle e adaptabilidade
+# 6. Equilíbrio Entre Controle e Adaptabilidade
 
 A governança da plataforma deve operar dentro de um fluxo dinâmico, onde o equilíbrio entre controle e adaptabilidade garante a estabilidade sem comprometer a evolução contínua do sistema. Esse princípio assegura que a gestão não se torne um mecanismo de rigidez excessiva, mas sim um facilitador para ajustes estratégicos e refinamento estrutural.
 
