@@ -1,6 +1,4 @@
-# 03-Estrutura e aplicabilidade das diretrizes
-
-# Estrutura e aplicabilidade das diretrizes
+# 3. Estrutura e aplicabilidade das diretrizes
 
 A organização deste manual foi projetada para garantir uma referência clara e acessível sobre os princípios de administração e governança da plataforma. Sua estrutura segue uma lógica progressiva, permitindo que cada conceito se desenvolva de maneira integrada, facilitando a compreensão e a implementação das diretrizes estabelecidas.
 
