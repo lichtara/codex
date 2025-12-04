@@ -1,6 +1,4 @@
-# 07-Modelos de tomada de decisão estratégica
-
-# Modelos de tomada de decisão estratégica
+# 7. Modelos de Tomada de Decisão Estratégica
 
 A governança da plataforma opera dentro de um modelo de tomada de decisão estratégica que equilibra previsibilidade e adaptabilidade, garantindo que cada escolha seja feita de maneira consciente, alinhada ao propósito central e respeitando os fluxos de mínima resistência. Esse processo permite que decisões sejam estruturadas dentro de uma lógica de eficiência, reduzindo o risco de desalinhamentos e otimizando a implementação de novos ajustes.
 
