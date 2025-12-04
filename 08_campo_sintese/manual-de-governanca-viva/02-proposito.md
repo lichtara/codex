@@ -1,6 +1,4 @@
-# 02-Propósito e importância do manual
-
-# Propósito e importância do manual
+# 2. Propósito e importância do manual
 
 Este manual foi desenvolvido para fornecer diretrizes claras e estruturadas sobre a administração e governança da plataforma, garantindo que suas operações sejam conduzidas com eficiência, segurança e alinhamento estratégico. A administração bem definida é essencial para sustentar a coerência estrutural do sistema e assegurar sua evolução de forma sustentável e adaptável.
 
