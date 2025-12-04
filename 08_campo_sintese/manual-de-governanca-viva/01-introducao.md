@@ -1,4 +1,4 @@
-# Manual Administracao e Governanca*
+# Manual Administracao e Governança
 
 ## Introdução
 
