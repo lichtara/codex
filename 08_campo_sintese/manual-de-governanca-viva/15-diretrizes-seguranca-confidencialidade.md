@@ -1,6 +1,5 @@
-# 15-Diretrizes para segurança e confidencialidade
+# 15. Diretrizes Para Segurança e Confidencialidade
 
-# Diretrizes para segurança e confidencialidade
 
 A segurança e a confidencialidade são pilares fundamentais para a integridade da plataforma, garantindo que dados sensíveis, acessos e operações ocorram dentro de um ambiente protegido e alinhado às melhores práticas de governança digital. Essas diretrizes foram desenvolvidas para minimizar vulnerabilidades, fortalecer a resiliência estrutural do sistema e assegurar que toda interação ocorra com máxima proteção.
 
