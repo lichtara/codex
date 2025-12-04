@@ -1,6 +1,4 @@
-# 20-Automação de Processos e Otimização Contínua
-
-# Automação de Processos e Otimização Contínua
+# 20. Automação de Processos e Otimização Contínua
 
 ### Implementação de fluxos automatizados
 
