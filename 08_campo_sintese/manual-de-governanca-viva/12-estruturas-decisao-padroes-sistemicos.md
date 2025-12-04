@@ -1,6 +1,4 @@
-# 12-Estruturas de decisão baseadas em padrões sistêmicos
-
-# Estruturas de decisão baseadas em padrões sistêmicos
+# 12. Estruturas de Decisão Baseadas em Padrões Sistêmicos
 
 A tomada de decisão dentro da plataforma é estruturada a partir de padrões sistêmicos que garantem coerência, fluidez e alinhamento com o propósito central. Essa abordagem permite que as escolhas estratégicas sejam feitas de maneira natural, respeitando a lógica do fluxo de menor resistência e potencializando a eficiência operacional.
 
