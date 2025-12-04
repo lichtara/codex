@@ -1,6 +1,4 @@
-# 09-Mecanismos de rastreamento de desempenho
-
-# Mecanismos de rastreamento de desempenho
+# 9. Mecanismos de rastreamento de desempenho
 
 A estrutura de governança da plataforma conta com mecanismos de rastreamento de desempenho projetados para garantir a eficiência operacional, a integridade dos fluxos e a otimização contínua do sistema. Esses mecanismos permitem a análise detalhada de cada componente, assegurando que todas as funções operem dentro dos padrões estabelecidos e que ajustes possam ser feitos de forma estratégica.
 
