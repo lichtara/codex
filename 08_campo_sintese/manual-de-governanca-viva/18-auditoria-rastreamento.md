@@ -1,6 +1,4 @@
-# 18-Métodos de auditoria e rastreamento de atividades
-
-# Métodos de auditoria e rastreamento de atividades
+# 18. Métodos de auditoria e rastreamento de atividades
 
 A governança da plataforma adota métodos avançados de auditoria e rastreamento de atividades para garantir a transparência, a segurança e a integridade dos processos operacionais. Esses métodos permitem monitoramento contínuo, identificação de padrões e a detecção de anomalias, assegurando que todas as interações ocorram dentro dos parâmetros estabelecidos.
 
