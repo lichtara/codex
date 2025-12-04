@@ -1,6 +1,4 @@
-# 17-Segurança, Auditoria e Protocolos de Proteção de Dados
-
-# Segurança, Auditoria e Protocolos de Proteção de Dados
+# 17. Segurança, Auditoria e Protocolos de Proteção de Dados
 
 ### Estratégias para proteção da integridade do sistema
 
