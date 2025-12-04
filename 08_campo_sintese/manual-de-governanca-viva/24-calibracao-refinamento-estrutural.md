@@ -1,4 +1,4 @@
-# 23-Métodos de calibração e refinamento estrutural
+# 23. Métodos de Calibração e Refinamento Estrutural
 
 A calibração e o refinamento estrutural são processos fundamentais para garantir que a plataforma opere de forma otimizada, adaptável e coerente com seu propósito central. Esses métodos asseguram que a evolução do sistema ocorra de maneira progressiva, sem rupturas ou desalinhamentos, permitindo que cada ajuste fortaleça a estrutura global.
 
