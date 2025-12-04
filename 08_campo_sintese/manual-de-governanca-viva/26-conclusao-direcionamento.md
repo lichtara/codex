@@ -1,6 +1,4 @@
-# 26-Conclusão e Direcionamento Futuro
-
-# Conclusão e Direcionamento Futuro
+# 26. Conclusão e Direcionamento Futuro
 
 ### Aplicação das diretrizes na administração contínua
 
