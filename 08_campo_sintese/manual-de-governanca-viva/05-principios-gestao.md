@@ -1,6 +1,4 @@
-# 05-Princípios norteadores da gestão
-
-# Princípios norteadores da gestão
+# 5. Princípios norteadores da gestão
 
 A gestão da plataforma é fundamentada em princípios que garantem a coerência estrutural, a eficiência operacional e a capacidade de adaptação contínua. Esses princípios norteadores asseguram que todas as decisões e processos sejam conduzidos dentro de um fluxo otimizado, respeitando tanto a estrutura estabelecida quanto a necessidade de ajustes progressivos.
 
