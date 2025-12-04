@@ -1,6 +1,4 @@
-# 04-Fundamentos da Administração e Governança
-
-# Fundamentos da Administração e Governança
+# 4. Fundamentos da Administração e Governança
 
 A administração e governança da plataforma são baseadas em princípios estruturais que garantem a eficiência, estabilidade e evolução contínua do sistema. Esses fundamentos asseguram que cada decisão e ajuste sejam feitos de maneira alinhada ao propósito central, preservando a integridade operacional e permitindo um crescimento sustentável.
 
