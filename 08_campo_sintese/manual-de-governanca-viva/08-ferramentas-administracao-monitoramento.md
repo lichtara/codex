@@ -1,6 +1,4 @@
-# 08-Ferramentas de Administração e Monitoramento
-
-# Ferramentas de Administração e Monitoramento
+# 8. Ferramentas de Administração e Monitoramento
 
 ### Painéis de controle e visualização sistêmica
 
