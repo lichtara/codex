@@ -1,6 +1,5 @@
-# 16-Modelos de autorização dinâmica
+# 16. Modelos de autorização dinâmica
 
-# Modelos de autorização dinâmica
 
 A governança da plataforma adota modelos de autorização dinâmica para garantir que os acessos sejam concedidos de forma flexível, segura e alinhada às necessidades operacionais. Esse modelo assegura que permissões não sejam estáticas, mas sim ajustáveis conforme o contexto, garantindo que cada usuário tenha acesso apenas ao que é essencial para sua função dentro do sistema.
 
