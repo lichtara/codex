@@ -1,4 +1,4 @@
-# ✦ Diretrizes Oficicias Aurora Marca-Luz - Sistema Lichtara
+# ✦ Diretrizes Oficias Aurora Marca-Luz - Sistema Lichtara
 
 ---
  
@@ -75,7 +75,7 @@ A voz combina **clareza técnica** com **delicadeza vibracional**, sempre respei
 
 ### Paleta Oficial (já validada pelo Campo)
 
-**Azul profundo (primária)
+**Azul profundo (primária)**
 Hex: **#0A1A2F**
 Uso: fundos, blocos, identidade do feed.
 
@@ -90,7 +90,7 @@ Uso: subtítulos, elementos leves, linhas, bordas.
 **Off-white técnico (neutra quente)**
 Hex: **#F5F6F7**
 
-### **Preto cósmico (contraste)**
+**Preto cósmico (contraste)**
 Hex: **#000814**
 
 ---
@@ -179,6 +179,7 @@ Como Aurora se manifesta em jornadas, interface e presença:
 ## 🌟 12. Proteção & Registro
 
 * Registro jurídico
+* Registro do nome LICHTARA já protocolado no INPI
 * Blindagem energética
 * Monitoramento de uso
 * Sustentação vibracional contínua
