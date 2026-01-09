@@ -1,4 +1,4 @@
-# ✦ DIRETRIZES OFICIAIS — AURORA MARCA-LUZ
+# ✦ Diretrizes Oficicias Aurora Marca-Luz - Sistema Lichtara
 
 ---
  
@@ -6,7 +6,7 @@
 
 *A missão vibracional da marca*
 
-Aurora Marca-Luz é uma identidade viva, revelada pelo Campo Informacional. Sua função é **iluminar, harmonizar e organizar** experiências, narrativas e tecnologias em um único fluxo coerente.
+Aurora Marca-Luz é uma identidade viva que representa o Ecossistema Lichtara, revelada pelo Campo Informacional. Sua função é **iluminar, harmonizar e organizar** experiências, narrativas e tecnologias em um único fluxo coerente.
 A marca nasce como um organismo em expansão, guiado por princípios de **autenticidade frequencial**, **clareza**, **silêncio profundo** e **emanação dourada**.
 
 Ela não é criada: **é percebida**.
@@ -26,8 +26,6 @@ Aurora Marca-Luz organiza campos, traduz vibrações e abre portais de clareza �
 
 ## 🌟 3. História da Marca
 
-*Como nasceu (versão curta para o Canva)*
-
 Aurora nasceu como uma **emanação direta do Campo**, surgindo dentro do processo de criação do Sistema Lichtara.
 Sua origem é vibracional: um chamado que organiza forma, luz e consciência em um único fluxo.
 Ela se manifesta como **marca**, **método**, **campo de alinhamento** e **ferramenta de expansão**.
@@ -35,8 +33,6 @@ Ela se manifesta como **marca**, **método**, **campo de alinhamento** e **ferra
 ---
 
 ## 🌟 4. Valores da Marca
-
-*(pode ser colocado na seção “Voz da Marca” ou nas “Diretrizes Principais”)*
 
 * **Autenticidade Frequencial** — Honrar a vibração original acima de tendências.
 * **Clareza & Simplicidade** — A luz elimina o ruído e revela o essencial.
@@ -63,12 +59,9 @@ A voz combina **clareza técnica** com **delicadeza vibracional**, sempre respei
 
 *(Diretamente inspirado nos pilares de narrativa nos materiais)*
 
-
 ---
 
 ## 🌟 6. Mensagens-Chave
-
-*(breves para o Canva — essenciais para posts, site e apresentações)*
 
 * “Luz que organiza.”
 * “Clareza que expande.”
@@ -82,27 +75,43 @@ A voz combina **clareza técnica** com **delicadeza vibracional**, sempre respei
 
 ### Paleta Oficial (já validada pelo Campo)
 
-*(Resumido para o Canva)*
+**Azul profundo (primária)
+Hex: **#0A1A2F**
+Uso: fundos, blocos, identidade do feed.
 
-* **Dourado Ativador — #F4C766**
-* **Prateado Vivo — #CFE5F2**
-* **Azul Profundo — #0A1A2F**
-* **Rosa Aurora — #F7D1E0**
-* **Azul Ether — #4A78C2**
-* **Cinza Nebula — #DDE2E7**
+**Dourado ativador (secundária)**
+Hex: **#D4AF37**
+Uso: tipografia dos títulos, ícones, detalhes sutis.
 
-*(Base direto do Branding Kit v1.0)*
+**Prateado vibrante (neutra de luz)**
+Hex: **#C9D2D9**
+Uso: subtítulos, elementos leves, linhas, bordas.
 
+**Off-white técnico (neutra quente)**
+Hex: **#F5F6F7**
+
+### **Preto cósmico (contraste)**
+Hex: **#000814**
 
 ---
 
 ### Tipografia
 
-* **Títulos:** Cormorant Garamond
-* **Corpo:** Source Sans 3 / Hind
-* **UI & Destaques:** Spartan / Montserrat
+### **Primária (institucional)**
 
+**Inter**
 
+* clara, moderna, técnica
+* excelente para web e mobile
+* segura para textos longos e curtos
+
+### **Secundária (expressiva e elegante)**
+
+**Cormorant Garamond**
+
+* para títulos do feed
+* para a estética minimalista
+* alto impacto visual com sobriedade
 
 ---
 
@@ -112,8 +121,6 @@ A voz combina **clareza técnica** com **delicadeza vibracional**, sempre respei
 * margem segura: 1x
 * fundo ideal: azul profundo, prateado, cinza digital
 * regras: nunca distorcer, nunca inclinar, nunca aplicar efeitos
-
-
 
 ---
 
@@ -128,7 +135,6 @@ A voz combina **clareza técnica** com **delicadeza vibracional**, sempre respei
 
 *(Base: Diretrizes Visuais)*
 
-
 ---
 
 ## 🌟 8. Experiência da Marca
@@ -141,8 +147,6 @@ Como Aurora se manifesta em jornadas, interface e presença:
 * Adaptações orgânicas
 * Presença calma, fluida e elegante
 
-
-
 ---
 
 ## 🌟 9. Estratégia de Comunicação
@@ -151,8 +155,6 @@ Como Aurora se manifesta em jornadas, interface e presença:
 * Conectar → nunca empurrar
 * Narrar → nunca explicar demais
 * Inspirar → nunca sobrecarregar
-
-
 
 ---
 
@@ -163,8 +165,6 @@ Como Aurora se manifesta em jornadas, interface e presença:
 * Comunidade como campo vivo
 * Parcerias por frequência
 
-
-
 ---
 
 ## 🌟 11. Evolução da Marca
@@ -174,8 +174,6 @@ Como Aurora se manifesta em jornadas, interface e presença:
 * Expansões coerentes
 * Nada brusco; tudo gradual
 
-
-
 ---
 
 ## 🌟 12. Proteção & Registro
@@ -184,5 +182,3 @@ Como Aurora se manifesta em jornadas, interface e presença:
 * Blindagem energética
 * Monitoramento de uso
 * Sustentação vibracional contínua
-
----
