@@ -1,7 +1,3 @@
-# 11-biofeedback-quantico
-
-Proprietário: Débora Lutz
-
 # **Biofeedback Quântico**
 
 # **Introdução**
