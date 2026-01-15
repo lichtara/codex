@@ -1,6 +1,3 @@
-# 01-introducao-proposito-projeto
-
-
 # **Manual de Operações e Cultura do Projeto**
 
 # Introdução e Propósito do Projeto
