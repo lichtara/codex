@@ -1,7 +1,3 @@
-# 06-diretrizes-expansao- manifestacao
-
-Proprietário: Débora Lutz
-
 # Diretrizes de Expansão e Manifestação
 
 ## Introdução
