@@ -1,5 +1,4 @@
-# Manual de Governança Viva
-
+# Manual da Administração e Governança
 ## Introdução
 
 O Manual de Administração e Governança estabelece as diretrizes fundamentais para a estruturação, operação e evolução contínua da plataforma, garantindo que sua gestão ocorra dentro de princípios sólidos de organização, eficiência e segurança. A governança deste sistema é concebida para ser adaptável e responsiva, assegurando que cada decisão e ajuste fortaleça a estrutura global sem comprometer sua integridade ou funcionalidade.
