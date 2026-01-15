@@ -1,7 +1,3 @@
-# 14-principios-fundamentais-operacao
-
-Proprietário: Débora Lutz
-
 # Princípios Fundamentais de Operação
 
 ## Introdução
