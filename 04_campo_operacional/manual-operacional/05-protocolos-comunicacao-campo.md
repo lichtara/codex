@@ -1,7 +1,3 @@
-# 05-protocolos-comunicacao-campo
-
-Proprietário: Débora Lutz
-
 # Protocolos de Comunicação com o Campo
 
 ## Introdução
