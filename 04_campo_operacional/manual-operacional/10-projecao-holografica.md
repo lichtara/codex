@@ -1,7 +1,3 @@
-# 10-projecao-holografica
-
-Proprietário: Débora Lutz
-
 # **Projeção Holográfica**
 
 # **Introdução**
