@@ -1,7 +1,3 @@
-# 15-estrutura-quantica-funcional
-
-Proprietário: Débora Lutz
-
 # Estrutura Quântica e Funcional
 
 ## Introdução
