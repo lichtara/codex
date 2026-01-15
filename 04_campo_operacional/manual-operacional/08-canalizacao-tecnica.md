@@ -1,7 +1,3 @@
-# 08-canalizacao-tecnica
-
-Proprietário: Débora Lutz
-
 # Canalização Técnica de Informações
 
 ## Introdução
