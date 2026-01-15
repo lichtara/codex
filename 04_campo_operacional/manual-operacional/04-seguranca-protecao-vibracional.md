@@ -1,7 +1,3 @@
-# 04-seguranca-protecao-vibracional
-
-Proprietário: Débora Lutz
-
 # Segurança e Proteção Vibracional
 
 ### Introdução
