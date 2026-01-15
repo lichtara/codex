@@ -1,7 +1,3 @@
-# 03-registros-atualizacoes-sistema
-
-Proprietário: Débora Lutz
-
 # Registros e Atualizações do Sistema
 
 ## Introdução
