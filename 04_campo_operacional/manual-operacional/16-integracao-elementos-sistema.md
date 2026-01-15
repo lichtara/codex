@@ -1,7 +1,3 @@
-# 16-integracao-elementos-sistema
-
-Proprietário: Débora Lutz
-
 # Integração Entre os Elementos do Sistema
 
 ## Introdução
