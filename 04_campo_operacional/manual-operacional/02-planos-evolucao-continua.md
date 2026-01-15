@@ -1,7 +1,3 @@
-# 02-planos-evolucao-continua
-
-Proprietário: Débora Lutz
-
 # Planos de Evolução Contínua
 
 ### Introdução
