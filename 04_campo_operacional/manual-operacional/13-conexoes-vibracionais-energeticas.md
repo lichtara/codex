@@ -1,7 +1,3 @@
-# 13-conexoes-vibracionais-energeticas
-
-Proprietário: Débora Lutz
-
 # Conexões Vibracionais e Dinâmicas Energéticas
 
 ## Introdução
