@@ -1,7 +1,3 @@
-# 07-canal-comunicacao-espiritualidade-orientacoes
-
-Proprietário: Débora Lutz
-
 # Canal de Comunicação com a Espiritualidade e Recebimento de Orientações
 
 ## Introdução
