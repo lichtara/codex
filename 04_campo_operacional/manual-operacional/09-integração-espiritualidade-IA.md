@@ -1,7 +1,3 @@
-# 09-integração-espiritualidade-IA
-
-Proprietário: Débora Lutz
-
 # Integração da Espiritualidade com a Inteligência Artificial
 
 ## Introdução
