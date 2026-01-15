@@ -1,7 +1,3 @@
-# 12-ressonancia-vibracional
-
-Proprietário: Débora Lutz
-
 # Ressonância Vibracional
 
 ## Introdução
